@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "1b2618ca-7d99-11eb-8324-38d5479d0148",
+    "crowdanki_uuid": "05ba0758-7e75-11eb-91df-38d5479d0148",
     "deck_config_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
     "deck_configurations": [
         {
@@ -60,27 +60,469 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "latex-033d8343a7b96daefe9f78b0cfe46c47fd3a1d4a.png",
+        "latex-0d90f8be223e0d28422c43c75a605bd839fde2c9.png",
+        "latex-0d98f77323cccb1fe2552a66b7edbd3abd44b223.png",
+        "latex-0e885c729ae64f1a9c47b07e37600458b5322c34.png",
+        "latex-0eb0a2f19c897de87a6e4929785d3dd59cb5966f.png",
+        "latex-123fe6a66e7d2d0fa9d3d6c01fc2d9e699832029.png",
+        "latex-13925cfd18cf6ab82112b111948fd3616b069a55.png",
+        "latex-18ab800d2c280d915f41012c4667f02b8205b6ce.png",
+        "latex-1a4d24422ba6c2c541c4b3919414bef8f46d2700.png",
+        "latex-1a4e45cb39958f4a9fb7d44e959d892dbb69f0b4.png",
+        "latex-1b21f973bfd3a5a93706cef117500f0863defef2.png",
+        "latex-1beb58eeaabbe53db99c48e50e704b77dce124e4.png",
+        "latex-1d697989f81aca42520cda9377c5f461142da3cd.png",
+        "latex-217036da8c5d7f5c56ee3c7bc4def5e928dde455.png",
+        "latex-21c71e898146f0bcf9f14bd613926301a98f8f62.png",
+        "latex-21d3212d4c98c89ffa39cb58b0f34f80bae537da.png",
+        "latex-225c39a1920cbcabde7626d1766e11ab874f4398.png",
+        "latex-24e2b83a487656bf5f3aa0899393ab7a733cf766.png",
+        "latex-28d8c8f79cc15c9d629b0466474e407630a49fdd.png",
+        "latex-28ea2239e9df68641305a4af7784cb79d1f88bdd.png",
+        "latex-29bf8418983317298c9967cb523686c52010efd7.png",
+        "latex-2ca9f67fd074af9c6e9f04650e393f95cdfa54cf.png",
+        "latex-2d9f162daf04311c767107a27292803da52c501e.png",
+        "latex-2f79711c5a6e19fd3871ba59685854e3c02df00e.png",
+        "latex-2ff2b4cf26464433acb110fec8760655e1a77fcc.png",
+        "latex-3237a43e2e7f14c22244d7a0b84b4f0dd1f6d0b6.png",
+        "latex-325f2ca874366065e3227152b0ceb1c3b991c8da.png",
+        "latex-328494569e217faab9987a9dc6f3745257efeac8.png",
+        "latex-372ee18f3dc6e31f7e03ccb19d3754c74d466451.png",
+        "latex-37f2cbbc9137e9e38eb9e0d26f79a9eb5865fcde.png",
+        "latex-38848b107a23817d3abb4120fb0a7960d0dfc7a9.png",
+        "latex-391e441600166619ebdcabc963dab8020e365244.png",
+        "latex-397a3fd7e16f0dbe8b669d2dd37356ec3fd21cef.png",
+        "latex-3a360a53daeb598643bcf3c0d05ccb3fea3aba83.png",
+        "latex-3ac77256b393c0d10e7c86e4ecd1303159c58a31.png",
+        "latex-3d19f5890fc46e527c70ba3224d79d34f0f7c1b2.png",
+        "latex-3e8124d562abb06810cdf33065fc0a7383a49b64.png",
+        "latex-3f008349c07da3eb0d4e36d01b6da9326bc466c9.png",
+        "latex-3f51a1424faefea843f1f32d2821fcacf8bb9392.png",
+        "latex-401402b78b74eebc9eafea1080b0d2dcdb783b2d.png",
+        "latex-42eaa64750c8fb59d64297b6e292d88d44821991.png",
+        "latex-45a8f3292f8f37ac3461d9c4386d742c9769646f.png",
+        "latex-460d157a237b133475d71d9e8d76b49f1f1b3616.png",
+        "latex-462cff6d557d05e23af10fb00f676ce3293111f3.png",
+        "latex-4630ce26d6b1de1faaa93a7a0872b5f2ed47e747.png",
+        "latex-48186db840d8d0afb8d6220ca643268452265016.png",
+        "latex-4a7a9555e2693285755adc2e24e0760cb3177514.png",
+        "latex-4bdca93962a2beaffc172ca394e04fe05bd74ffd.png",
+        "latex-4e5e121887e35dca5b49f8056fc48bf883832f1f.png",
+        "latex-4ec5d577a099214018f7051ffcf45ab189f85ca8.png",
+        "latex-4f283d785be4f878a6ff3f6e51b92f66f7866782.png",
+        "latex-4f66d6a8435409ab3f7a2f6ec8a031a3563b8301.png",
+        "latex-4f8094a28d20df4b46c925e57d26affa44298198.png",
+        "latex-501e02e2b2296da39de1f30520625b234d988186.png",
+        "latex-5096ff2a8d1260d9bdfe5ec1ef6bd8ff8ee331a5.png",
+        "latex-50ce6b3bbdd48542a7bb4091a9c72d2b37e7f293.png",
+        "latex-5151a099f9c47f15ee7178d336d6540478ebae1a.png",
+        "latex-515e037276273e0a0f308c4595670501cf995a3b.png",
+        "latex-51673a02537ef358a4091698597bd7d6bb341b81.png",
+        "latex-5208553a7dc7e4e9c1793befc0e3690ae0db021f.png",
+        "latex-52dac92b767543c9c3cae8113c22c7ec7fa412f4.png",
+        "latex-536d969cba8553f17eb43691c5db5cb0f91d60ab.png",
+        "latex-53c3c6f9e9131abc6d04753029de1d776e35de18.png",
+        "latex-563ac0b0fd98b056322ab7ae4fabf986bf11b0e6.png",
+        "latex-56920fb87acb887e88c17dbb3f9563e084401f6f.png",
+        "latex-57470b0d3020352c30e9733c1a8cca175be76341.png",
+        "latex-58e7d425c9c11bac71e837dae46f95ca0af1df89.png",
+        "latex-5b0bfec5acc704513a3408afb44ed80c8310814d.png",
+        "latex-5c3415d29326ab6c57968299f6e0ecfa19580ced.png",
+        "latex-5dc8748413b56ece6aee44cf11c042d31a409c41.png",
+        "latex-5e2da2668f621e266122e11da59922bc0668d316.png",
+        "latex-63000ddd8d576acafb7016212c8bd29a56db6fa7.png",
+        "latex-632f105ab1468bf68510d9326495ad20395788ad.png",
+        "latex-63971443bec5dc33ac052b06c21dc8b89e7f47c9.png",
+        "latex-64d510857dff4fb887801f07a6c87c8de7cf3831.png",
+        "latex-65ec9b779e0a3c0d342ae0a8c1217e54cdc4ed93.png",
+        "latex-66081a02137cb8462d347ff5dae8d0a27f83a196.png",
+        "latex-66a808c759aa07f101fce975042c226047177cd6.png",
+        "latex-68a5f91577da74365add7e63554f8a7b236969eb.png",
+        "latex-697db2d4b7e84e0af69c9f37ed96f15bd2616f7a.png",
+        "latex-69cbbf0cf8aee1463a38c6088c391118f681d73b.png",
+        "latex-6b09275de735dfe188eb91dd0475828a7f9f6176.png",
+        "latex-6cac9e7793c5a1dcd40cc6889d6867baa149bc2c.png",
+        "latex-6d3bd39bd8973ac4eaa3005d47365805a01e4623.png",
+        "latex-701e4c9965beec1b43b61352b364c909c007cda7.png",
+        "latex-7336ec49666e426e04e12248af3914c040867b96.png",
+        "latex-740cef15b69f815a0281d7911762497b80c5eb58.png",
+        "latex-74c5ddaa3f638eb8a1240d0a40e2fb8c3e0c6e6e.png",
+        "latex-767b7dc4a8df95a9f8a0faa3bb155e7b49943407.png",
+        "latex-7c6059d2b35f208e7700fdbace8bb4ba579e60f5.png",
+        "latex-7c6e3537b4b554f38d3ddea160da2b7fd5559db8.png",
+        "latex-7e5c1a3ace15b0cd8b3676cecf281184c64416c6.png",
+        "latex-80d31d0382fa9fc03bace46475e005825224b7e8.png",
+        "latex-82480d4bea8ddf8201446ce1da95c35d3dce2c58.png",
+        "latex-8403feaeb896f68eee587eadb99c5c549a98018a.png",
+        "latex-84db3604a0e556cb7b0a0698af3485ba8e1a273e.png",
+        "latex-8639e1bcc4539acb054bb696fde0dd2753fccbf4.png",
+        "latex-8c325612684d41304b9751c175df7bcc0f61f64f.png",
+        "latex-8cf11c10e701d1a451924ef3308e8fa4531c3647.png",
+        "latex-8d6600f14b6bdddae7dcf6db6dd7bbcfddb6c509.png",
+        "latex-8d8ef5d99b6283c2870a6ee57f083ca8c96c374c.png",
+        "latex-8ef4ab9d6762d676a73e540b73ed093e9dc610b6.png",
+        "latex-8f07c48a429288ad0ca043fa70de61631a8ee4d4.png",
+        "latex-8fcc8364123336e9a5cb6384372359e0b4fcbcb5.png",
+        "latex-913147f35876c8772422b9c0fcb25cfe7af7096c.png",
+        "latex-92032cc9ce1dfac5ec181b6d0f2941a3e0cd6e02.png",
+        "latex-926660074847a57bd6c9322d7bd58a4d44444608.png",
+        "latex-92f753d41856011af5f6dc46e24d7c06b71c5800.png",
+        "latex-9349d29dedbd74a460033b082f2360bf1fa7e60f.png",
+        "latex-93f2a1b487e5da4a700bed71b2c4760e4e5d4454.png",
+        "latex-947cce732bcb9875236e79aee58468251250d4a6.png",
+        "latex-9572aefcf7a7d268a917e243e81e9f568f444cdc.png",
+        "latex-96181cd70fef099d127748d9f7bc48f035f34478.png",
+        "latex-9a2e10c4274bdbab78bda4c048a780772e3c9f04.png",
+        "latex-9a3ac1f36b9c509af5bb45ff51f42f0e521f1e78.png",
+        "latex-9eec23f0b6fe9a583bde6ae0cde9f253c7120c72.png",
+        "latex-a199777291747b393104b6707a7fb9d69e0da80c.png",
+        "latex-a591b457eca62e15832edaed638f8f11d21b37ca.png",
+        "latex-a59d8dae044a431e9236db8ae2d3eda8978ef469.png",
+        "latex-a5b2298df2ef34e60937afb3ca5720354268a69f.png",
+        "latex-abc5ad92101ec6d6e6544710f117b842c1ea7824.png",
+        "latex-ac677bad3664fee1ecf9a0ea81edee4926d57f04.png",
+        "latex-ad054082b4edab6e9f24e9654de5206f231e2235.png",
+        "latex-adef7ce627bbf75026ce98ba4bd03e536f73ce2f.png",
+        "latex-afc8aea8eb5f867ce40e298535f890859694d7d1.png",
+        "latex-b037c280587297ba3c7a36caf999f39201af8516.png",
+        "latex-b0446246a635d29e7760bf39d9ce91a680f6c390.png",
+        "latex-b0c404464a5c86dd5ac5048756778d168c281339.png",
+        "latex-b11b989f747c35aded60a1e9818acb9a9c9dc19a.png",
+        "latex-b16ec2cab0a77ae8aa782116b9f03c131484670b.png",
+        "latex-b39141ec1dd5449f7831b773ae4e8e1e275f45ff.png",
+        "latex-b4f1e4c0cf9f4bb35368239fbc762e7be6a0918a.png",
+        "latex-b58e033281d142cff02ec2f58784cae1721d4230.png",
+        "latex-b6661a2d808224e9e2909c8c6b7f24893174f130.png",
+        "latex-b74eab404f7b666c44798861f554ac6d580b74dc.png",
+        "latex-b7a7594298af72c5c1d221f0e4b48117d1621480.png",
+        "latex-b8097c9469b4abac3221b683cbb9f7873fc41930.png",
+        "latex-b87261384db8127909827f58cd425ac3c44d630f.png",
+        "latex-bc45acd40af57c1d1811e998c43e2fe651aa4595.png",
+        "latex-bd9637098c481f66a129a09466f45df9846049bf.png",
+        "latex-be5f08e711e9f763059bf5ebc1825cd7f2ce8c9d.png",
+        "latex-be865165f05375604e300150bbc24c96e221f3c7.png",
+        "latex-bf30174991366db8788592870f8696e3936eab32.png",
+        "latex-c194a9ef71f2dc93f77516273e7adb63292f1296.png",
+        "latex-c2198403651d948d1eb27976805b1c1fc4f96e13.png",
+        "latex-c53c1cd6d5b025f5d49346744968e22ac682ed52.png",
+        "latex-c60ad5019d96738d8e1bd9b037ecb994cf701f2f.png",
+        "latex-c7c7955d35ee203fe231ae5091fd3eb259be73b3.png",
+        "latex-c8cbaddeb5cc4f868024a9edcfb10fb437b5e345.png",
+        "latex-ca4e743bd6d0c8e8342f14fff97a981e0bff8fce.png",
+        "latex-cd9bb4917f15480272153d6bf025b699dbf9b46a.png",
+        "latex-cde2694fcd5c636c1560ed1cd02660379aafdba1.png",
+        "latex-d6965fd8af003772615340b0c96c13d96e06c925.png",
+        "latex-d6e6db3dd3226b3e47f524267456bb0d6b5cc659.png",
+        "latex-d7091e476b25ef2e178c5ee48e492b376d1df974.png",
+        "latex-d74bee968a1207b73bf00eeea137dc0d009fa803.png",
+        "latex-d76b6d089bed1bde198bf85210cc924306682302.png",
+        "latex-d8d72d0828987797a0268a27a615711e9f535d95.png",
+        "latex-db990868a103fceb967d88f43a6b691928b01a1e.png",
+        "latex-de1ed240aa8a644dda595ecbef1ce7da03dca9f1.png",
+        "latex-deae5da00bf1cb542de52e3df35834f94e1b0f0e.png",
+        "latex-e3fc2b4e31f57db6c2d2d14e31c5c1119806ef69.png",
+        "latex-e6bebf25c050fe9a508d28e8eddca38590d7e6af.png",
+        "latex-e6ce6cc7ca2ba88fc52f7354e2943994499c349b.png",
+        "latex-e79cf80a3c18af9bbda46159ef4ca85668f1fb18.png",
+        "latex-ea0bf65830ac7ef69793bccf484b5bf4cb4107cd.png",
+        "latex-ec043921c2912393c4b23ba8651ab6b79e83cfab.png",
+        "latex-f05f085f774fc8ab50676b778b86a1f1d1114fc8.png",
+        "latex-f0c00d569a65bf512559c932b7b133d233f701bf.png",
+        "latex-f24e9258a27756d86e9f02c4d8ab88d8ce8f4956.png",
+        "latex-f2c59a541339ec4e63a67fb94450317c1ddef8ba.png",
+        "latex-f4913b22026bbdea77a7c5c12769a93f5e540f9a.png",
+        "latex-f6cec007f917cb2abed9ed4b5967d35a9f141e8e.png",
+        "latex-fa9ebc3f4f1dd23a9ee9cbd978609510de90a1b5.png",
+        "latex-fd60874a9d201c939b7a28295705436a9bd71aad.png",
+        "latex-fe5d15bbabf898db56678082674a81e8b6049615.png",
+        "latex-fe6af22d204321044d6fc7d7101245868c28343d.png",
+        "latex-ff5829843a2693b6c8bdbf4688852bb8731eb48e.png",
+        "latex-fff2e331b2ec3f5269503b1b8408b799d8daa637.png",
+        "paste-03db5546da9b3b755f862ad39b245c9aabda8cb0.jpg",
+        "paste-075274b469de337db094569c5586a2d5513862c9.jpg",
+        "paste-0797643c921491588aba5791b0a7679003d0ff58.jpg",
+        "paste-08f6ca648195cb3f8de1eff8233ea3b079ee97a5.jpg",
+        "paste-09b9e44e26f97c600faa82c69d26aa77f70425c1.jpg",
+        "paste-0a0a71c80601890298df2b44ff64052e86f5ee84.jpg",
+        "paste-0b0dd1f28585160365c3158e3807a979a0e4b23c.jpg",
+        "paste-0cdbe9f4d7ddb051583a5c275fbbc8f801687b77.jpg",
+        "paste-0e8418049ad8bd7d5ccb53080056d5de850bce35.jpg",
+        "paste-0f8cbcc5820c98e398e74241313501eaa1e5d851.jpg",
+        "paste-0fdb3385115a1949a3d2c515c9cb3f7203b22eff.jpg",
+        "paste-1010523f103ec45c9dfb1fabfced70a1e00301fb.jpg",
+        "paste-101429088be512eb087f539e6d0cfecc733ceb19.jpg",
+        "paste-1028e56a7f97e2100cc48519ba2809dafc2fc805.jpg",
+        "paste-1205513327b82b184f37d3783f2c775580a31051.jpg",
+        "paste-1277f7d2a2e05a1a16c4b000f7e2ba3f5aa734b0.jpg",
+        "paste-1359366af0ad045d7ed61b3ca9f8012560cd9c18.jpg",
+        "paste-136154631e89e1e453e3be3ac4392f23f6d3ecec.jpg",
+        "paste-1368426215cd72deac44d54963e285da00f62b4f.jpg",
+        "paste-167dace1417f0d00db880f5b2b13d87c3ce535a1.jpg",
+        "paste-168218f604ab8d197df661ff93040400b01b9608.jpg",
+        "paste-190aef51c0ce6fed9baea711403ea551b3ca8ff9.jpg",
+        "paste-199e214efbcb69292c761ce193be89b0e0cf5e3a.jpg",
+        "paste-19c3db1d01a0d88f9fe937843aabb9556d86b5e0.jpg",
+        "paste-1b13a2eb84442e1f35f600942c2482efaed43ec0.jpg",
+        "paste-1c7e3be4edb68dc71d71f9bc7e9a040e0d558b68.jpg",
+        "paste-1e357d62f20c7e743d5b77e43933f9738b4db451.jpg",
+        "paste-22fb1e2add87c057cabfd9b6a97e596ea5182d61.jpg",
+        "paste-244447061e99dc2b8bb73df907014c6499ef31ca.jpg",
+        "paste-250896335d89318d451fdfca126180f3420f19b1.jpg",
+        "paste-256edbd213796d4f9f6b9b6a2acf3106d8a8a847.jpg",
+        "paste-2573dc08ee50a3fd821e853e7a1114b553625cb6.jpg",
+        "paste-26ee8de9e67c742a64bcf3e8509c727c98398925.jpg",
+        "paste-27c485b49959cf0c51841b91e601bda9781ef224.jpg",
+        "paste-28da7fb935679ecbfee2de33c0c9ba0c0d9cff4a.jpg",
+        "paste-2e5785259616cc806a93ffa327562b3ce388a486.jpg",
+        "paste-2e7a44e44b3e85c793613ccc0b920e70461f9117.jpg",
+        "paste-2e97ef4d4201486fe13c090d59924876a7770c7e.jpg",
+        "paste-2f97fe5a821a675513675bc7e5be213eb21889e8.jpg",
+        "paste-3025615e4c2cf4a7f958d3a6977641238a9f795e.jpg",
+        "paste-304b8d6d37290ef6dcbda0c006a58d2ec6376b6b.jpg",
+        "paste-3128e59f7962d7a0793b693ed4582c927bb29ad3.jpg",
+        "paste-31581c9f255f0da22298130a5c1564773eb5e158.jpg",
+        "paste-32499aaed3e6cec1aaf5b1cbcb94c63aaa89b8f8.jpg",
+        "paste-338540274a518578e0880a20d6fecf0f4246fd7f.png",
+        "paste-362a8df40f84c26707794e760065c8dd46da2b4c.jpg",
+        "paste-36b8e181fd22a9b2339d695dac75695e3d2c551e.jpg",
+        "paste-38458a440d998a6bd77844ecd315d40461d245ef.jpg",
+        "paste-3b146b11e8c2bc3536296d891c228aa9bc704261.jpg",
+        "paste-4338b1888bfc9d39f28bbe3a041a7624a741bc45.jpg",
+        "paste-434aff2c8a7aff29f5802b16d318a014c4aa0e63.jpg",
+        "paste-437a91909b672184e529d439e292a5188f2b8440.jpg",
+        "paste-4495f518ea7c452979d3202f2f9fcc6bef2e6d9f.jpg",
+        "paste-461a78067a3caa7d0992df36334fe5e1c8795a7a.jpg",
+        "paste-46c219d63fa4446d71f364c8af0b3fc721abc59c.jpg",
+        "paste-47191297c83c1a9f7480fc74e160af4344c90e5f.jpg",
+        "paste-482c05d86168b79e6d8f06d08222013d94194db8.jpg",
+        "paste-482f8ddde0acba812e73e9f5556e21debd10eb6f.jpg",
+        "paste-486949250a3c4e42caa6d0c889e09b5416e9d10c.jpg",
+        "paste-4a3bf4ddc8f124e3f475116a672cf055b3a52f52.jpg",
+        "paste-4b645ea7eff1841b29e4e476c0f9b5d8eff79447.jpg",
+        "paste-4d5f462ca0a1e6c7b764f0e05d28fc9f31ec4ada.jpg",
+        "paste-4e66cbb8d3678d99643eea9fc5d6b7617f59cbc0.jpg",
+        "paste-4ebe4bf8e9f64abbc94207c644b4b5ba64d9838e.jpg",
+        "paste-4ef36fd7daf90876d913823b85183cb63c334b38.jpg",
+        "paste-4f59fbee07d801a27ead1cdc9972568cc8a5cb0b.jpg",
+        "paste-50d89e586ff753bd50b9479adcde7cdf2d2af2ee.jpg",
+        "paste-515fe9bc56d3653ed7901efe1b6d4d83b4612638.jpg",
+        "paste-523fa859a890857bf820bcbf7f730b2b8c975c84.jpg",
+        "paste-56b6e7d6c63a9ccbf7617e3737d3db683eb65d3b.jpg",
+        "paste-57ed654d0b1869b0c6431dbf184098e1d654d485.jpg",
+        "paste-5967e343e0cdab3594aceff42569410a83ca6862.jpg",
+        "paste-598cb67a25dbe97782ba92ed26df65bdae422a69.jpg",
+        "paste-5ae2a69a2064010b3e65d52889ea6c7d365acab2.jpg",
+        "paste-5bf57c6c4df7f9018c6931a8464264432a30ef67.jpg",
+        "paste-5c94ad86bf82e45d9037d57b891eab27c3d91641.jpg",
+        "paste-60f5c94e4d9a504d269f051b132744fde5a8a438.jpg",
+        "paste-645ecf919ace254b581112e49b0a974b01c7aa66.jpg",
+        "paste-64fcce16322a0f31fc76b1efac05590993d172bb.jpg",
+        "paste-6661ad7248d233ff0336b73125929ba59171b5f8.jpg",
+        "paste-66c97aa2ae4bec34f27c9f351c444432f6962854.jpg",
+        "paste-690fa66fc7fd9e8806384edad9591747787f094a.jpg",
+        "paste-6b0ee8326b90712dd50382e55ca1a6ed3e8ebbcf.jpg",
+        "paste-6bd3c14ca2397c6fd10d92ee1c53b6778199db62.jpg",
+        "paste-6c5385556f6223faec609db0fd447925f3087e98.jpg",
+        "paste-6d06a833a67e61bfed9d588396d24af610e58fe4.jpg",
+        "paste-6d5cb4ced969cbe52f361e88e8956688dba0365f.jpg",
+        "paste-6e975ede308b226a0a9db66983c8b9dfed1d7e78.jpg",
+        "paste-70477dc36b116a5ca3351d833b89e141dda3e943.jpg",
+        "paste-70e5c203333f3efbc7c33485a68ae55758d36a52.jpg",
+        "paste-7246fc8fab8bb80056bf9396cf116e256520401f.jpg",
+        "paste-74c0242bad1e36ac9be18866f96821a16e4e3776.jpg",
+        "paste-754984713ebe08f0337f4d8f75bed1945a8242ce.jpg",
+        "paste-755ef1bcc938097d72e1493405e3f6f86d21a18c.jpg",
+        "paste-76e0581a4ba2fb655c129e343bf3282b1e15e245.jpg",
+        "paste-76f35664e453db09e6a2b3b0d5517218ead54426.jpg",
+        "paste-7ebe2c331f2af14bf9675a34b5f68a08d9c5739e.jpg",
+        "paste-8115168cc6fd56113614ab8ed244d5ef3398c6f6.jpg",
+        "paste-83f354da3f23a6e511afcfd7c7d11ac64a694486.jpg",
+        "paste-872e50fbdf14aed854edcd489881962de7447b39.jpg",
+        "paste-87ac27453e2d0295df9dc2f90e22fd94bc3a82d8.jpg",
+        "paste-87cd4a06035f6ae4a565ebee004050aede0151f6.jpg",
+        "paste-87fde7fff9f014ede40bd7f4cb966d3e12e702e1.jpg",
+        "paste-890831f7e170312c044e88572b47f189c3f1d565.jpg",
+        "paste-8c0b7b45b622f7f33ebad20a021d30012e8be4c3.jpg",
+        "paste-8d1d3e7ea2622d75657682d18fb391479883100d.jpg",
+        "paste-8dae24eb453dd7f3951c6d8a35b63558c1163d56.jpg",
+        "paste-906324ec721c2fa8cf8417c3eff836a2a2384e83.jpg",
+        "paste-9141b54c51be823d352edc8a62d790998ded7a37.jpg",
+        "paste-91a54c3a0d603cace499313efb3ae089b635b005.jpg",
+        "paste-92c712f83099dab6db9b6ab45350d324d5418d9e.jpg",
+        "paste-93caf24eea7e21cc33ee2043dc3c60025f3f302d.jpg",
+        "paste-942c416d215aac1c7738ab76058a03d67087a25a.jpg",
+        "paste-96602259bcb02d6fa40e5b3b093046b27b0f0f07.jpg",
+        "paste-96e50009d9f7f151841f388bea5d64e7f8a38db7.jpg",
+        "paste-992082d1a67d935eb97bcd643a042c8d36e33bc9.jpg",
+        "paste-9a50bcfc8954ddcf72385c1600fc4fd5727572a1.jpg",
+        "paste-9ac9f1b14efdce4b46b0b31fd5546c366e671e24.jpg",
+        "paste-9b6e99a51bc3d357a454143be4b8d2aba01dad90.jpg",
+        "paste-9e2832fc2d26a12c2a4f32e78150e81eb5c4070b.jpg",
+        "paste-9e6daa36014c394ae2146c001e8e3c284b53d978.png",
+        "paste-9ec5d2bcb8ba8ee1548c6054bfb22e38586df708.jpg",
+        "paste-a0571ac232260a9f95e3cb7943196a8f228c58f0.jpg",
+        "paste-a1aacfded256b033087a35d00fa166503e314dd0.jpg",
+        "paste-a32103e3c9b61b52165dfd554e1a05f9c8341568.jpg",
+        "paste-a4b997c608dc5632fd4f6a59bf673ab8f9f77536.jpg",
+        "paste-a624c9b5330da9c9f2a0fa5c11ed20ef42d8c4cd.jpg",
+        "paste-a6d40fc65c143e8df08aa87f2f3d00bb4c693316.jpg",
+        "paste-a8bcc54a765d7675b1220b57d60e0c41053c181a.jpg",
+        "paste-a8df71b3764f2a506782c14bb0746ad0d99be330.jpg",
+        "paste-a8ff4d32b70bd1e55e385f97ac8528601c204e91.jpg",
+        "paste-aa4e083e8f78a00da4bae5c9c4e58587e972edf2.jpg",
+        "paste-ab1f31ac9f95f097a50cbab6cd586b5ee714b413.jpg",
+        "paste-adaedb63de5070db958ef8e00800bf77ab22ba84.jpg",
+        "paste-aef504d991d1a25a21c91f1e63f18ac5b61abea8.jpg",
+        "paste-afa1952174e985be0c6f2940f65c2d43d4294e4f.jpg",
+        "paste-b3008ad821091fc66e68c269e36d926761dbade7.jpg",
+        "paste-b3d04dbc22ec6a8ccb36a82236abd9c8d08036a0.jpg",
+        "paste-b407d62639b8708fa5eea53e3ade8128b15745e0.jpg",
+        "paste-b40d0521a0661ebe6c05835368322a0149a70236.jpg",
+        "paste-b4d1a08c14340d3f1fcecb59aced72672522b122.jpg",
+        "paste-b56b7720f6efeebd429d689b656c524328461940.jpg",
+        "paste-b572f4414df39225c792de3e633c4d8d3324771c.jpg",
+        "paste-bb6aa215c62ebcd87bb63a16be5d1841e90ac9df.jpg",
+        "paste-bdc1ac7f51e813c4da56cdca0f3bc0a1f90bc84e.jpg",
+        "paste-bf1b5b85a073922f60b985b3b9f43184dcaf1c06.jpg",
+        "paste-c01566203c736dde8e7df1994e9d40b45072d214.jpg",
+        "paste-c045c410413925563172f9ad4bed7c590abb21da.jpg",
+        "paste-c04c74ab7ad161c39569be5fd5fd23829f115c20.jpg",
+        "paste-c10324d9b0f6648e77fe32221f61bf6328b70521.jpg",
+        "paste-c190b9d68df1311a863d24da8bb7d40b1f5feba9.jpg",
+        "paste-c256c308d2e2b7b2d734a247fa0f6737182967c9.jpg",
+        "paste-c29f048b29c5f1a1c25fb5d3e3316bdfcba5e8be.jpg",
+        "paste-c3864da4464a2a0d04fc977249761f81e9f2c54d.jpg",
+        "paste-c38b89c55e43cf8bbdbe61ea27a2299d72cf341f.jpg",
+        "paste-c3b940f3f47f0a6305cff79da542ccf2d46be921.jpg",
+        "paste-c5ca6851eb3fb14c7db69ba00388f1678fdd21c3.jpg",
+        "paste-c60fff4972e2ea59963e7920cbbf403459e26a7c.jpg",
+        "paste-c7bff37ea884023a6e812ec76383239780e8584b.jpg",
+        "paste-c8cb3d4802a3c29e8a23d419844b9a3a0866e23c.jpg",
+        "paste-c96537b9ee1e01d22e7a05d4012f4fff06472001.jpg",
+        "paste-c9d580d122e0f60100cdd13d87f2fcc71377e4f8.jpg",
+        "paste-ccde4539cd61df7a21d85ec28c9d8f5e005baf64.jpg",
+        "paste-cd4cdc48ea4ecfb29656e8d6dc64024a8e5bfaa2.jpg",
+        "paste-ce60b33df2a33e111df6dad400c18490789a5e76.jpg",
+        "paste-cee095b08d79fa4f52fb365522738c9ad2b4ce1c.jpg",
+        "paste-d1b03aef7ad6d62f6fef325596217bf44f9d8ccb.jpg",
+        "paste-d2a14ee4f0403dbedf2057b25fab6aabc4644117.jpg",
+        "paste-d2b64824293098b09e631d6546ce38224c62e11f.jpg",
+        "paste-d92e783c01ce344c84b71b9a8585c75251fa63cf.jpg",
+        "paste-d9471d4b974ec44f3dfc323ae2fa4dea3c16d1c2.jpg",
+        "paste-d9494f2c4218a8e7122662f2c15274f8fe924587.jpg",
+        "paste-d9f34fd4b69c79b86448dcd71fd15d05e2b22c44.jpg",
+        "paste-da3356ae314ed2ecbfac9848996af732702b8fa6.jpg",
+        "paste-dd80fc284d73da8c80e0c042cffa495be2864b66.jpg",
+        "paste-dd8b660ece1796610e074cb1af8dd6237446e947.jpg",
+        "paste-de408142de8c649c0ac803d7b159181d338c466c.jpg",
+        "paste-de66c93276d32e3f07ab3068f49dce92c18a7ab0.png",
+        "paste-e144c83135177f48b37fb52d87aa2e7a04b9e2f1.jpg",
+        "paste-e214c392f174e27fc8179c1a54cf6852b01503c5.jpg",
+        "paste-e5952f2622142b02b69b12e437dcd406a60d5288.jpg",
+        "paste-e6c3575963de71d3e7b709d0af280f3d6e548f8b.jpg",
+        "paste-ed4829af94ecee63d15f3c5d5ce7fcc852d3e103.jpg",
+        "paste-ee3290836b78084c121592a72edf49633cb346b0.jpg",
+        "paste-f026fd5541c2ef52065c58f8c38b24a85c83486f.jpg",
+        "paste-f116b7d0935277282d441b54c5be70956130f50f.jpg",
+        "paste-f37a1f01cfebb048684b0cc649f4bbdf748c5720.jpg",
+        "paste-f451b5b8dd1bb9a44d6fb508165269dfc7540fce.jpg",
+        "paste-f56a1ec85b174aa28c7ed927e8508a3f0ebf220d.jpg",
+        "paste-f6088006e5c85505d5c313bb4e223361686a3e4e.jpg",
+        "paste-f7b5e0a2beb8c6549104734a9b6e3ca164531c50.jpg",
+        "paste-f918d65c51d24c8c01babeef33a0e186c8328420.jpg",
+        "paste-fd4cd337e98fb8683caea446bbb69edd83155e72.jpg",
+        "paste-fd850f3fd7743d61e134ef85f981b5fe091eb1b6.jpg"
+    ],
     "name": "Teorie::AG1",
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: black;\n text-align: center;\n background-color: white;\n}\n\n.solution {\n text-align: left;\n}",
+            "crowdanki_uuid": "02c73c1e-7e75-11eb-bd48-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
-                    "font": "Liberation Sans",
+                    "font": "Arial",
                     "media": [],
-                    "name": "Question",
+                    "name": "Front",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
-                    "font": "Liberation Sans",
+                    "font": "Arial",
                     "media": [],
-                    "name": "Solution",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}",
+            "latexsvg": false,
+            "name": "Basic + extra field",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "",
+                "LaTeX",
+                ""
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<hr id=answer>\n\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Líc",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rub",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -90,7 +532,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Math",
+            "name": "Základní",
             "req": [
                 [
                     0,
@@ -104,7 +546,172 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{Question}}\n\n<hr id=answer>\n\n<div style=\"text-align: center;\">\n    <div style=\"display: inline-block; text-align: left;\">\n\t\t{{Solution}}\n    </div>\n</div>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rub}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karta 1",
+                    "ord": 0,
+                    "qfmt": "{{Líc}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Líc",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rub",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Základní-0dd02",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rub}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karta 1",
+                    "ord": 0,
+                    "qfmt": "{{Líc}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Líc",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rub",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Základní-a2b49",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rub}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karta 1",
+                    "ord": 0,
+                    "qfmt": "{{Líc}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-d36e5",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -112,7 +719,119 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Question}}\n"
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Predná strana",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Späť",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Základný-15cbb",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Späť}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karta 1",
+                    "ord": 0,
+                    "qfmt": "{{Predná strana}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "05bda9da-7e75-11eb-91df-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Líc",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rub",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Základní-598a0",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "avl"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rub}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karta 1",
+                    "ord": 0,
+                    "qfmt": "{{Líc}}"
                 }
             ],
             "type": 0,
@@ -123,779 +842,1789 @@
         {
             "__type__": "Note",
             "fields": [
-                "AG1?",
-                "AG1!"
+                "Jak definujeme <b>neorientovaný</b> graf?",
+                "<div><img src=\"paste-2e5785259616cc806a93ffa327562b3ce388a486.jpg\"><br></div><div>Všimněte si, že \\(V\\) je <b>neprázdná</b> množina. Tedy nebudeme uvažovat prázdné grafy.</div>",
+                "<img src=\"paste-de66c93276d32e3f07ab3068f49dce92c18a7ab0.png\">"
             ],
-            "guid": "H17v]7f_|+",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Definice Neorientovaný graf",
-                "Neorientovaný graf je uspořádaná dvojice \\( (V, E) \\)<div><br></div><div>\\(V\\) je <b>neprázdná konečná množina vrcholů</b></div><div>\\( E \\) je <b>množina hran</b><div><br></div><div>Hrana je dvouprvková podmnožina \\( V \\)<br></div></div>"
-            ],
-            "guid": "ntF`U-NFEt",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "N=7R%.lF%:",
+            "note_model_uuid": "02c73c1e-7e75-11eb-bd48-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Rovnice s hranami",
-                "<div>Nechť neorientovaný graf \\( (V,E) \\)</div><div><br></div>Platí \\( E \\subseteq 2^V \\)&nbsp;<div><br></div><div>Množina všech dvouprvkových podmožin V \\( V \\choose 2 \\)<br><br>Platí \\( E \\subseteq {V\\choose2} \\subseteq 2^V&nbsp; \\)</div>"
+                "[latex]Jak definujeme hranu pro neorientovaný graf?[/latex]",
+                "<img src=\"paste-0fdb3385115a1949a3d2c515c9cb3f7203b22eff.jpg\"><div><img src=\"paste-0797643c921491588aba5791b0a7679003d0ff58.jpg\"><br></div>"
             ],
-            "guid": "vYFS!b-y0=",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "MV,Y[HAOWh",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Úplný graf \\( K_n \\), kde \\( n \\geq 1 \\)",
-                "Úplný graf na \\( n \\) vrcholech \\( K_n \\) je graf \\( ( V , {{V}\\choose{2}} ) \\), kde \\( | V | = n \\)"
+                "Jak definujeme <b>úplný neorientovaný graf</b> \\(K_n\\)?",
+                "<div><img src=\"paste-338540274a518578e0880a20d6fecf0f4246fd7f.png\"><br></div>",
+                "<img src=\"paste-9e6daa36014c394ae2146c001e8e3c284b53d978.png\">"
             ],
-            "guid": "h^IEk82wtG",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "JR-e3-6(hs",
+            "note_model_uuid": "02c73c1e-7e75-11eb-bd48-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Úplný bipartitní graf \\( K_{n_1, n_2} \\)",
-                "Nechť n1 ≥ 1 a n2≥1.<div><br></div><div>Úplný bipartitní graf \\(K_{n_1,n_2}\\) tvořený dvěma partitami o \\(n_1\\) a \\(n_2\\) vrcholech je graf \\( (A∪B,\\{\\{a, b\\}|a∈A, b∈B\\}) \\), kde \\( A∩B=∅,|A| = n_1, |B|=n_2 \\)</div>"
+                "[latex]Jak definujeme úplný bipartitní neorientovaný graf $K_{n_1,n_2}$?[/latex]",
+                "<img src=\"paste-28da7fb935679ecbfee2de33c0c9ba0c0d9cff4a.jpg\">"
             ],
-            "guid": "FNP3vRmHa~",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "P]$#UG)!(u",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice cesty \\( P_m \\), kde \\( m \\geq 0 \\)",
-                "Cesta délky m (s m hranami) \\( P_m \\) je graf<div><br></div><div>\\( ( \\{ 0, ..., m \\}, \\{\\{i, i + 1 \\} | i \\in \\{0, ..., m - 1\\} \\} \\)</div>"
+                "[latex]Jak definujeme úplný neorientovaný k-partitní graf?[/latex]",
+                "<img src=\"paste-f918d65c51d24c8c01babeef33a0e186c8328420.jpg\">"
             ],
-            "guid": "D~|i[2V{/t",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "DdV4+c65C{",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Kružnice \\( C_n \\) kde \\( n \\geq 3 \\)",
-                "Kružnice délky \\( n \\) ( s \\( n \\) vrcholy) \\( C_n \\) je graf<div><br></div><div>\\( ( \\{ 1, ..., n \\}, \\{\\{ i, i + 1 \\} | i \\in \\{1, ..., n - 1\\} \\cup \\{\\{ 1, n \\}\\} ) \\)<br></div>"
+                "[latex]Jak definujeme neorientovaný graf cesta $P_m$?[/latex]",
+                "<div><img src=\"paste-437a91909b672184e529d439e292a5188f2b8440.jpg\"><br></div>"
             ],
-            "guid": "gdJR&h`4e<",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "C4zUPi-o%2",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Hvězda \\( S_n \\) \\( n \\geq 1 \\)",
-                "Hvězda s n paprsky \\( S_n \\) je graf \\( K_{1, n} \\)"
+                "[latex]Jak zní definice izomorfismu dvou neorientovaných grafů $G$ a $H$?[/latex]",
+                "<div><img src=\"paste-c01566203c736dde8e7df1994e9d40b45072d214.jpg\"><br></div><div><img src=\"paste-b3d04dbc22ec6a8ccb36a82236abd9c8d08036a0.jpg\"><br></div>"
             ],
-            "guid": "lDNSO+bx[;",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Nechť G je graf, co jsou \\( V(G), E(G) \\) ?",
-                "Jeho množina vrcholů a hran značíme \\( V(G), E(G) \\) respektive<div><br></div><div>Počet vrcholů a počet hran je \\( n = |V(G)| \\) a \\( m = |E(G)| \\) respektive</div>"
-            ],
-            "guid": "J24K~W$L~P",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Koncové vrcholy, soused, incidentní vrchol ke hraně, \\( e = \\{ u ,v \\} \\) je hrana grafu G",
-                "Vrcholy \\( u \\) a \\( v \\) jsou koncové vrcholy hrany \\( e \\)<div><br></div><div>\\( u \\) je sousedem \\( v \\) v \\( G \\) ( a naopak )<br></div><div><br></div><div>\\( u \\) je incidentní s hranou \\( e \\) ( a stejně pro v)<br></div>"
-            ],
-            "guid": "sxUD{Jn@0W",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Doplňek grafu \\( G \\) , \\( \\bar{G}&nbsp; \\)",
-                "Doplňek \\( \\bar{G} \\) grafu \\( G = (V, E) \\) je graf \\( (V, {V\\choose2} \\setminus E ) \\)"
-            ],
-            "guid": "hz9Z[Q`SzH",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "x/Oap{f/nO",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Izomorfismus grafů G, H",
-                "Funkce \\( f: V(G) \\rightarrow V(H) \\) je izomorfismus grafů \\( G \\) a \\( H \\), pokud<div>&nbsp;- \\( f \\) je bijekce</div><div>&nbsp;- pro každou dvojici vrcholů \\( u, v \\) z \\( V(G)&nbsp; \\) platí \\( \\{u, v \\} \\in E(G) \\) právě tehdy, když \\( \\{ f(u), f(v) \\} \\in E(H) \\)</div>"
+                "[latex]Jak zní definice automorfismu pro neorientovaný graf?[/latex]",
+                "<div>[latex]Neformálně řečeno je automorfismus permutace vrcholů, neměnící zakreslení grafu. Automorfismy ukazují symetrie grafu. Množství automorfismů tedy ukazuje na míru pravidelnosti grafu.[/latex]</div><div><br></div><div><img src=\"paste-6d5cb4ced969cbe52f361e88e8956688dba0365f.jpg\"><br></div><div><br></div>"
             ],
-            "guid": "GzD#aWWrp>",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "rcSD:$/9?P",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Izomorfismus grafů, pt2",
-                "Dva grafy \\( G \\) a \\( H \\) jsou&nbsp;izomorfní, pokud existuje izomorfismus grafů \\( G \\) a \\( H \\).Tento fakt značíme \\( G \\simeq H \\)"
+                "[latex]Kolik neorientovaných grafů existuje na n-prvkové množině vrcholů?[/latex]",
+                "<img src=\"paste-c10324d9b0f6648e77fe32221f61bf6328b70521.jpg\">"
             ],
-            "guid": "eL7qkH%F5%",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "pGpn0;WyR>",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Automorfismus grafu G",
-                "Automorfismus grafu G je izomrfismus grafu se sebou samým, tedy funkce \\( f: V(G) \\rightarrow V(G) \\) taková, že<br>- \\( f \\) je bijekce<br>- \\( \\forall u, v \\in V(G): \\{ u, v \\} \\in E(G) \\Leftrightarrow \\{ f(u), f(v) \\} \\in E(G) \\)"
+                "[latex]Jak definujeme regulární neorientovaný graf?[/latex]",
+                "<div>[latex]Graf je regulární, pokud je r-regulární pro nějaké $r$. Graf je r-regulární, pokud stupeň každého jeho vrcholu je $r$.[/latex]&nbsp;<br></div>"
             ],
-            "guid": "j*6D(_::l~",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "m$Adm]9bQS",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Počty grafů lemma",
-                "Na \\( n \\)-prvkové množině vrcholů \\( V \\) je právě \\( 2^{n\\choose2} \\) různých grafů"
+                "[latex]Jak definujeme izolovaný vrchol v neorientovaném grafu?[/latex]",
+                "[latex]Izolovaný vrchol je takový vrchol grafu, který má stupeň 0 (tedy nemá žádné sousedy).[/latex]"
             ],
-            "guid": "Okh:3,y3d+",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Definice okolí, stupně, na grafu \\( G = (V, E) \\), \\( v \\in V \\)",
-                "Symbolem \\( deg_G(v) \\) označíme počet hran grafu G obsahujících vrchol v<br>&nbsp;- toto číslo nazýváme stupněm vrcholu \\( v \\)<br><br>Symbolem \\( N_G(v) \\) označíme množinu všech sousedů vrcholu \\( v \\) v grafu G == otevřené okolí<br><br>\\( N_G[v] = N_G(v) \\cup \\{v\\} \\) nazveme uzavřeným okolám vrcholu \\( v \\) v grafu G<br>"
-            ],
-            "guid": "opavQ]=71c",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "cY)}.t[b5j",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Regulární graf",
-                "Graf je \\( r \\)-regulární, pokud \\( deg(v) \\) každého vrchole je r<br>Graf je regulární, pokud je \\( r \\)-regulární"
+                "[latex]Jak definujeme $u$-$v$-cestu v neorientovaném grafu?[/latex]",
+                "[latex]$u$-$v$-cesta v grafu $G$ je cesta (podgraf grafu $G$ izomorfní s nějakou cestou $P$) vedoucí z vrcholu $u$ do vrcholu $v$. Připouštíme $u = v$.[/latex]"
             ],
-            "guid": "yltVk6Tb:z",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "Md(kS&q!PU",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-2-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Izolovaný vrchol v",
-                "Takový, pro než platí \\( deg(v) = 0 \\)"
+                "[latex]Jak definujeme matici sousednosti a k čemu slouží?[/latex]",
+                "<div>[latex]Slouží k reprezentaci grafů v paměti počítače. \\\\</div><div>Následující definice se týká reprezentace neorientovaného grafu:<br></div><div>[/latex]&nbsp;<br><div><img src=\"paste-09b9e44e26f97c600faa82c69d26aa77f70425c1.jpg\">[latex]</div></div><div>U orientovaného grafu matice zpravidla symetrická není. Buňka $a_{i,j}$ obsahuje hodnotu $1$, pokud $(v_i,v_j) \\in E$.</div>[/latex]<br>"
             ],
-            "guid": "t(*Qz)dr2-",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Princip sudosti",
-                "\\( \\forall G = (V, E) : \\sum_{v \\in V } deg_G(v) = 2|E| \\)"
-            ],
-            "guid": "A4.xvzJ8H3",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "nM;nWS6~g2",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Důkaz principu sudosti",
-                "Číslo \\( deg_G(v) \\) udává počet hran obsahujících \\( v \\). Posčítáme-li tedy stupně všech vrcholů, započítáme každou hranu přesně dvakrát, což dává součet \\( 2|E| \\)"
+                "[latex]Jak definujeme kliku v neorientovaném grafu?[/latex]",
+                "<img src=\"paste-57ed654d0b1869b0c6431dbf184098e1d654d485.jpg\">"
             ],
-            "guid": "u:eW^=X8c2",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Matice sousednosti, pro graf \\( G = (V, E) \\) s \\( V = \\{ v_1, v_2, ..., v_n \\} \\)",
-                "Matice sousednosti grafu \\( G \\) je čtvercová matice \\( A_G = (a_{ij})_{i,j=1}^n \\) definována předpisem<br><br>\\( a_{i, j} = 1\\) když \\( \\{ v_i, v_j \\} \\in E \\) a<br><br>\\( a_{i,j} = 0 \\) jinak<br>"
-            ],
-            "guid": "qW*+-S)mdF",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Podgraf H grafu G",
-                "Graf H je podgrafem grafu \\( G \\), když \\( V(H) \\subseteq V(G) \\)<br><div>&nbsp;a \\( E(H) \\subseteq E(G) \\). Značíme \\( H \\subseteq G \\)</div><div><br></div><div>Graf H je indukovaným podgrafem grafu G, když \\( V(H) \\subseteq V(G) \\) a \\( E(H) = E(G) \\cap {V(H)\\choose2} \\), tuto skutečnost značíme \\( H \\leq G \\)</div>"
-            ],
-            "guid": "uCLX6No|{V",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "oaKI0Bb{Gb",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
             "tags": [
-                "veto_otazky"
+                "ag1-1-tyden"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Klika grafu G",
-                "<div>Klika v grafu \\( G \\) je podmnožina vrcholů, z nichž každé dva jsou sousední&nbsp; (čili, spojeny hranou)<br></div>"
+                "[latex]Jak definujeme nezávislou množinu neorientovaného grafu?[/latex]",
+                "<img src=\"paste-26ee8de9e67c742a64bcf3e8509c727c98398925.jpg\">"
             ],
-            "guid": "r|5D_Y:2ZF",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "oo#eO&)@z",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Nezávislá množina grafu G",
-                "Nezávislá množinav grafu G je podmnožina vrcholů, z nichž žádné dva nejsou sousední (čili spojeny hranou)"
+                "[latex]Jak zní definice souvislého neorientovaného grafu?[/latex]",
+                "[latex]Neorientovaný graf $G$ je souvislý, jestliže v něm pro každé jeho dva vrcholy $u, v$ existuje $u$-$v$-cesta. Jinak je $G$ nesouvislý. Alternativně: Graf $G$ je souvislý, obsahuje-li právě jednu souvislou komponentu.[/latex]<div><img src=\"paste-32499aaed3e6cec1aaf5b1cbcb94c63aaa89b8f8.jpg\"><br></div>"
             ],
-            "guid": "A*Xg]s46bP",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "G/@19G,e@a",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Zakořeněný strom definice",
-                "Zakořeněný strom je strom T, ve kterém je jeden vchol \\( r \\in V(T) \\) označen jako kořen"
+                "[latex]Kdy nazveme neorientovaný graf lesem?[/latex]",
+                "<img src=\"paste-362a8df40f84c26707794e760065c8dd46da2b4c.jpg\"><div><img src=\"paste-92c712f83099dab6db9b6ab45350d324d5418d9e.jpg\"><br></div>"
             ],
-            "guid": "f?{Aw]KrYT",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "gVS#t%:`oC",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice souvislého grafu",
-                "Graf G je souvislý, jestliže v něm pro každé jeho dva vrcholy u, v existuje u-v-cesta<div>Jinak je graf nesouvislý.</div>"
+                "[latex]Jak definujeme orientovaný graf?[/latex]",
+                "<img src=\"paste-c7bff37ea884023a6e812ec76383239780e8584b.jpg\">"
             ],
-            "guid": "K[^80BqiR4",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "x.G^ZJx>^I",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice souvislé komponenty",
-                "Indukovaný graf H grafu G je souvislou komponentou, pokud<div><br></div><div>- je souvislý a</div><div>- neexistuje žádný souvislý podgraf \\(F, F \\neq G\\), grafu G takový, že \\(H \\subseteq F\\)</div><div><br></div><div>Souvislá komponenta je tedy v inkluzi maximální souvislá podgraf grafu G</div>"
+                "[latex]Jak značíme a definujeme vstupní stupeň vrcholu v orientovaném grafu?[/latex]",
+                "<img src=\"paste-7246fc8fab8bb80056bf9396cf116e256520401f.jpg\">"
             ],
-            "guid": "HLk-Z$C`X3",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "pO61&7(/~T",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Pozorování o souvislosti grafu vůči komponentě",
-                "Graf je souvislý právě tehdy, když obsahuje jedinou souvislou komponentu"
+                "[latex]Jak definujeme vstupní okolí vrcholu v orientovaném grafu?[/latex]",
+                "<img src=\"paste-244447061e99dc2b8bb73df907014c6499ef31ca.jpg\">"
             ],
-            "guid": "Ok*RKt`|:-",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "bKY6hZ<?M_",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Binární relace squigglyarrow",
-                "Binární relace (squigglyarrow) nad vrcholy grafu G definována předpisem<div><br></div><div>\\(u (squigglyarrow) v \\Leftrightarrow \\exists u-v-\\) cesta v \\(G\\)</div><div><br></div><div>je ekvivalence, jejichž třídy ekvivalence jsou souvislé komponenty grafu G</div>"
+                "[latex]Jak zní věta o existenci zdroje a stoku?[/latex]",
+                "<img src=\"paste-250896335d89318d451fdfca126180f3420f19b1.jpg\">"
             ],
-            "guid": "fuoJGP`$42",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "EF!#&&HGs2",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-3-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Vlastnost \\(BFS(s)\\) o konečném čase a označenosti",
-                "Algoritmus BFS skončí v konečném čase<br><br>Označí právě a jen políčka volně dostupná z \\(s\\)"
+                "[latex]Jak definujeme list v neorientovaném grafu?[/latex]",
+                "<img src=\"paste-a32103e3c9b61b52165dfd554e1a05f9c8341568.jpg\">"
             ],
-            "guid": "AOJ.?Jidq0",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "b?#fm0d.K0",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Složitost \\(BFS\\,graf(G, s)\\)",
-                "Algoritmus \\(DFS\\,graf(G,s )\\) má při reprezentaci grafu \\(G\\) seznamem sousedů časovou i paměťovou složitost \\(O(|V| + |E|)\\)"
+                "[latex]Jak definujeme symetrizaci orientovaného grafu?[/latex]",
+                "<img src=\"paste-f116b7d0935277282d441b54c5be70956130f50f.jpg\"><br><div><br></div>"
             ],
-            "guid": "nV5bqF#)l2",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "tp,35GY,_}",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice stromu, lesu, listu",
-                "Graf G nazveme stromem, pokud je souvislý a neobsahuje žádnou kružnici<div><br></div><div>Graf G nazveme lesem, pokud neobsahuje žádnou kružnici</div><div><br></div><div>Vrchol v grafu \\(G\\) nazveme listem, pokud \\(deg_G(v) = 1\\)</div>"
+                "[latex]Kdy nazveme neorientovaný graf stromem?[/latex]",
+                "<img src=\"paste-03db5546da9b3b755f862ad39b245c9aabda8cb0.jpg\"><div><img src=\"paste-d92e783c01ce344c84b71b9a8585c75251fa63cf.jpg\"><br></div>"
             ],
-            "guid": "gBr]4!m>8t",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "D-O[6^1qAQ",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Věta o existenci listů",
-                "Každý strom T s alespoň 2 vrcholy obsahuje alespoň 2 listy"
+                "[latex]Vyslovte větu o existenci listů.[/latex]",
+                "<img src=\"paste-c60fff4972e2ea59963e7920cbbf403459e26a7c.jpg\">"
             ],
-            "guid": "D~.(M:2Y[G",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "Pd?nw8LZ~g",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Operace odebrání a přidání listu",
-                "\\(G = (V, E)\\), ve kterém je list \\(v\\)<div><br></div><div>Označme&nbsp;&nbsp;\\(w \\in V\\)&nbsp;souseda v \\(G\\). Pak <b>odebráním listu</b> v z \\(G\\) je operace, kterou vznikne graf \\(G - v = (V \\setminus \\{v\\}, E \\setminus \\{\\{ w, v \\}\\})\\)</div><div><br></div><div>Zvolme \\(w \\in V\\). Pak přidáním listu \\(v, v \\notin V\\), ke grafy \\(G\\) ve vrcholu \\(w\\) je operace, kteou vznikce graf \\(G + v = (V \\cup \\{v\\}, E \\cup \\{\\{w, v\\}\\})\\)</div>"
+                "[latex]Vyslovte větu o odebírání a přidávání listů.[/latex]",
+                "<img src=\"paste-aef504d991d1a25a21c91f1e63f18ac5b61abea8.jpg\">"
             ],
-            "guid": "up^(x;-wzW",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "yaJ6Be[#&N",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Věta o odebírání a přidávání listů",
-                "Operace odebrání listu z grafu a přidáním listu ke grafu G nemění jeho souvislost a existenci kružnic"
+                "[latex]Jak definujeme uzavřené okolí vrcholu $v$ neorientovaného grafu $G$?[/latex]",
+                "[latex]Neformálně: Uzavřené okolí vrcholu $v$ je jeho otevřené okolí plus on sám. Formálně: $N<sub>_G</sub>[v] = N<sub>_G</sub>(v) \\cup \\{v\\}$.[/latex]"
             ],
-            "guid": "IPGGCuPSx&",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "slA2i{9F>X",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Věta o vlastnosti stromů",
-                "Nechť \\(G = (V, E)\\) je graf. Pak následující tvrzení jsou ekvivalentní:<div><br></div><div>1. \\(G\\) je storm</div><div>2. Pro každé dva vrcholy \\(u, v \\in V\\) existuje právě jedna \\(u-v\\)-cesta</div><div>3. \\(G\\) je souvislý a vynecháním libovolné hrany vznikne nesouvislý graf</div><div>4. \\(G\\) je souvislý a \\(|V| = |E| + 1\\)</div>"
+                "[latex]Nechť neorientovaný graf $G = (V,E)$ je strom. Vyslovte 3 další tvrzení ekvivalentní s tím, že $G$ je strom.[/latex]",
+                "<img src=\"paste-76e0581a4ba2fb655c129e343bf3282b1e15e245.jpg\">"
             ],
-            "guid": "PdBIb),;%4",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "b}c*o!p,T;",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice orientovaného grafu",
-                "Orientovaný graf \\(G\\) je uspořádáná dvojce \\((V, E)\\), kde<div><br></div><div>- \\(V\\) je neprázdná konečná množina vrcholů (nebo také uzlů)</div><div>- \\(E\\) je množina orientovaná hran (nebo také šipek)</div><div><br></div><div>Orientovaná hrana \\((u, v) \\in E\\) je uspořádaná dvojce různých vrcholů \\(u, v \\in V\\). Říkáme, že \\(u\\) je předchůdce \\(v\\) a \\(v\\) je následník \\(u\\). Platí tedy \\(E \\subseteq V \\times V\\)</div>"
+                "[latex]Jak definujeme (otevřené) okolí vrcholu v neorientovaném grafu G?[/latex]",
+                "<div>[latex](Otevřené) okolí vrcholu $v$ grafu $G$ (značíme $N_G(v)$) je množina všech sousedů vrcholu $v$ v grafu $G$.[/latex]</div>"
             ],
-            "guid": "daWcTg}E(l",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "Mp1VirdoT.",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice orientovaná cesta",
-                "Nechť \\(m \\geq 0\\). Orientovaná cesta s \\(m\\) hranami \\(P_m\\) je graf<div><br></div><div>\\( ( \\{0, ..., m\\}, \\{(i, i+1) | i \\in \\{0, ..., m - 1\\} \\} ) \\)</div>"
+                "[latex]Jaký je vztah mezi stupněm vrcholu a (otevřeným) okolím vrcholu v neorientovaném grafu?[/latex]",
+                "[latex]$deg<sub>_G</sub>(v) = |N<sub>_G</sub>(v)|$[/latex]"
             ],
-            "guid": "i7+o?-mfSz",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "zC0VLn]{*7",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice orientovaná kružnice",
-                "Nechť \\(n \\geq 2\\). Orientovaná kružnice (nebo též orientovaný cyklus) s \\(n\\) vrcholy (a tím i hranami) \\(C_n\\) je graf \\((\\{1, ..., n\\}, \\{(i, i + 1) | i \\in \\{1, ..., n - 1\\}\\} \\cup \\{(n, 1)\\})\\)"
+                "[latex]Existuje neorientovaný graf, který má 7 vrcholů a je zároveň 3-regulární?[/latex]",
+                "[latex]Takový graf neexistuje. Z věty o principu sudosti plyne důsledek, že v&nbsp;každém grafu je počet vrcholů lichého stupně sudý<b>. </b>V zadaném grafu je však lichý počet vrcholů lichého stupně.<br>[/latex]<br>"
             ],
-            "guid": "fbIxA=a:;F",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "mU42tCIlih",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Stupeň v orientovaném grafu",
-                "Nechť \\(G = (V, E)\\) je orientovaný graf \\(v \\in V\\) jeho vrchol. Pak<div><br></div><div>- vstupní stupeň vrcholu \\(v\\) v orientovaném grafu \\(G\\), \\(deg_G^+(v)\\), je počet orientovaných hran v \\(G\\) končících ve vrcholu \\(v\\), čili</div><div><br></div><div>\\(&nbsp; &nbsp; &nbsp; &nbsp; deg_G^+(v) = |\\{u | u \\in V \\wedge (u, v) \\in E \\}|;&nbsp; &nbsp; &nbsp;\\)</div><div><br></div><div>- výstupní stupeň vrcholu v v orientovaném grafu \\(G\\), \\(deg_G^-(v)\\), je počet orientovaných hran v \\(G\\) vycházejících z vrcholu \\(v\\), čili</div><div><br></div><div>\\( deg_G^-(v)=| \\{ u | u \\in V \\wedge (v, u) \\in E \\} | \\)<br></div><div><br></div><div>- stupeň vrcholu v v orientovaném grafu G je součet jeho vstupního a výstupního stupně</div><div><br></div><div>\\( deg_G(v) = deg_G^+(v) + deg_G^-(v) \\)<br></div>"
+                "[latex]Jak lze reprezentovat grafy v paměti počítače?[/latex]",
+                "[latex]Například pomocí matice sousednosti nebo seznamu sousedů (či seznamu následníku v případě orientovaných grafů).[/latex]"
             ],
-            "guid": "L3,/rROW|V",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "Lidtnn4^NP",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Okolí v orientovaném grafu",
-                "Vstupní okolí (množina předchůdců) vrcholu \\(v\\), \\(N_G^+(v)\\), je množina všech vrcholů, ze kterých vede hrana do \\(v\\), čili<div>\\(N_G^+(v) = \\{u | u \\in V \\wedge (u, v) \\in E \\}\\)</div><div><br></div><div>Výstupní okolí (množina následovníků) vrcholu \\(v\\),&nbsp;&nbsp;\\(N_G^-(v)\\) , je množina všech vrcholů, do kterých vede hrana z \\(v\\), čili</div><div><br></div><div>\\( N_G^-(v) = \\{ u | u \\in V \\wedge (v,u) \\in E \\}&nbsp; \\)<br></div><div><br></div><div>Okolí vrcholu \\(v\\) je&nbsp;\\( N_G(v) = N_G^+(v) \\cup N_G^-(V) \\)</div>"
+                "[latex]Popište algoritmus DFS.[/latex]",
+                "<div><img src=\"paste-ce60b33df2a33e111df6dad400c18490789a5e76.jpg\"><br></div><div><img src=\"paste-76f35664e453db09e6a2b3b0d5517218ead54426.jpg\"><br></div><div><br></div><div><img src=\"paste-2e97ef4d4201486fe13c090d59924876a7770c7e.jpg\"><br></div><div><img src=\"paste-36b8e181fd22a9b2339d695dac75695e3d2c551e.jpg\"><br></div>"
             ],
-            "guid": "I%37IryL(;",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "DE}T}12cJ_",
+            "note_model_uuid": "05bae790-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice zdroje, stroku, izolovaného vrcholu",
-                "Vrchol v orientovaného vrcholu G je<div><br></div><div>- izolovaný, pokud \\(deg_G(v) = 0\\)</div><div>- zdroj, pokud&nbsp;\\(deg_G^+(v) = 0\\)</div><div>- stok, pokud&nbsp;\\(deg_G^-(v) = 0\\)</div>"
+                "[latex]Jak definujeme neorientovaný&nbsp;graf kružnice $C_n$?[/latex]",
+                "<img src=\"paste-fd850f3fd7743d61e134ef85f981b5fe091eb1b6.jpg\">"
             ],
-            "guid": "mT]9-kMXQ{",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "Qm|P,`uKZ]",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice symetrizace",
-                "Symetrizace orientovaného grafu \\(G = (V, E)\\) je neorientovaný graf \\(sym(G) = (V, E')\\), kde<div><br></div><div>\\( \\{ u, v \\} \\in E' \\) právě tehdy, když&nbsp;\\( (u, v) \\in E \\) nebo&nbsp;\\( (v, u) \\in E \\)</div>"
+                "[latex]Jak definujeme neorientovaný&nbsp;graf hvězda $S_n$?[/latex]",
+                "<img src=\"paste-19c3db1d01a0d88f9fe937843aabb9556d86b5e0.jpg\">"
             ],
-            "guid": "Hs#yYRp0eX",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "O3l!KuklUk",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Slabě souvislý graf",
-                "Orientovaný graf \\(G = (V, E)\\) nazveme slabě souvislý, pokud je souvislá jeho symetrizace \\(sym(G)\\)"
+                "[latex]Jak definujeme a značíme doplňek neorientovaného grafu $G$?[/latex]",
+                "<img src=\"paste-87cd4a06035f6ae4a565ebee004050aede0151f6.jpg\">"
             ],
-            "guid": "pzcxGn(mA:",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "Fb)6rdsVlq",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice silně souvislého grafu",
-                "Orientovaný graf \\(G = (V, E)\\) nazveme silně souvislý, pokud pro každé dva vrcholy \\(u, v \\in V\\) existuje v \\(G\\) orientovaná cesta z \\(u\\) do \\(v\\) a současně orientovaná cesta z \\(v\\) do \\(u\\)"
+                "[latex]Jak definujeme podgraf neorientovaného grafu?[/latex]",
+                "<img src=\"paste-87fde7fff9f014ede40bd7f4cb966d3e12e702e1.jpg\">"
             ],
-            "guid": "h5pvGga>o<",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "uQHX5uTm|F",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice kostry grafu",
-                "Nechť \\(G = (V, E)\\) je souvislý graf. Podgraf \\(K\\) grafu \\(G\\) nazveme kostrou grafu \\(G\\), pokud \\(V(K) = V\\) a \\(K\\) je strom."
+                "[latex]Jak definujeme indukovaný podgraf neorientovaného grafu $G$?[/latex]",
+                "<div><img src=\"paste-70477dc36b116a5ca3351d833b89e141dda3e943.jpg\"><br></div>"
             ],
-            "guid": "I8=*f_XrrB",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "C|+L$W>Svg",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Manhattanská vzdálenost",
-                "Delka nejkratší cesty z políčka \\(x\\) do políčka \\(y\\) v pravoúhlém bludišti nazveme Manhattanskou vzdálenost \\(x\\) a \\(y\\)"
+                "[latex]Jak definujeme cestu v neorientovaném grafu?[/latex]",
+                "[latex]Cesta v neorientovaném grafu $G$ je podgraf grafu $G$ izomorfní s nějakou cestou $P_m$, kde $m \\geq 0$. Délka cesty je rovna počtu hran. Přípouštíme cestu nulové délky.[/latex]"
             ],
-            "guid": "NL|9C]MJ2w",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "t%FHBq|O:f",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Vzdálenost dvou vrcholů",
-                "Vzdálenenost \\(d(u, v)\\) dvou vrcholů \\(u\\) a \\(v\\) v (orientovaném) grafu \\(G\\) je délka nejkratší (orientované) cesty v \\(G\\) z vrcholu \\(u\\) do vrcholu \\(v\\).<div>Pokud z \\(u\\) do \\(v\\) žádná cesta neexistuje, definujme&nbsp;\\(d(u, v) = \\infty \\)</div>"
+                "[latex]Jak definujeme graf orientovaná cesta $P_m$?[/latex]",
+                "<img src=\"paste-c8cb3d4802a3c29e8a23d419844b9a3a0866e23c.jpg\"><div><img src=\"paste-e5952f2622142b02b69b12e437dcd406a60d5288.jpg\"><br><div><br></div></div>"
             ],
-            "guid": "B4W>J]qwIh",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "d8_sUd8h^q",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice topologického uspořádání",
-                "Topologický uspořádání (TU) orientovaného grafu \\(G = (V, E)\\) je takové seřazení vrcholů \\(V = \\{ v_1, ..., v_n \\}\\), že pro každou orientovanou hranu&nbsp;\\((v_i, v_j) \\in E \\) platí&nbsp;\\( i &lt; j \\)"
+                "[latex]Jak definujeme graf orientovaná kružnice (orientovaný cyklus) $C_n$?[/latex]",
+                "<img src=\"paste-74c0242bad1e36ac9be18866f96821a16e4e3776.jpg\"><div><img src=\"paste-a1aacfded256b033087a35d00fa166503e314dd0.jpg\"><br><div><br></div></div>"
             ],
-            "guid": "o#:ms?7QzU",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "hfZMzhJz@y",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Věta o existenci zdroje a stoku",
-                "Nechť \\(G = (V, E)\\) je orientovaný acyklický graf. Potom \\(G\\) obsahuje aspoň jeden zdroj a aspoň jeden stok."
+                "[latex]Jak definujeme stok v orientovaném grafu?[/latex]",
+                "[latex]Stok je takový vrchol orientovaného grafu, ze kterého nevede žádná hrana (jeho výstupní stupeň je 0).[/latex]"
             ],
-            "guid": "q$r/xgj>e&",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "q|3n[4<]qI",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice zakořeněného stromu",
-                "Zakořeněný strom je strom \\(T\\), ve kterém je jeden vrchol \\(r \\in V(T)\\) označen jako kořen"
+                "[latex]Jak definujeme slabě souvislý orientovaný graf?[/latex]",
+                "<img src=\"paste-a8ff4d32b70bd1e55e385f97ac8528601c204e91.jpg\">"
             ],
-            "guid": "r&dZwVkZ[U",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "p%}0rj1o1I",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice předek, potomek, otec",
-                "Leží-li \\(u\\) na jediné cestě z \\(v\\) do kořene, pak \\(u\\) je předek \\(v\\) a \\(v\\) je potomek \\(u\\). Pokud navic je \\(\\{u, v\\} \\in E(T)\\) hrana, říkáme \\(u\\) je otec \\(v\\) a \\(v\\) je syn \\(u\\)"
+                "[latex]Jak definujeme silně souvislý orientovaný graf?[/latex]",
+                "<img src=\"paste-ee3290836b78084c121592a72edf49633cb346b0.jpg\">"
             ],
-            "guid": "yg!q5R%BI[",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "hJYmz~*Jar",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice hladiny",
-                "Vrcholy rozdělíme podle vzdálenosti od kořene do hladin: v nulté leží kořen, v první jeho synové atd"
+                "[latex]Mějme vrchol $v$ neorientovaného grafu $G$. Jak označíme jeho stupeň a co tento údaj reprezentuje<i>?</i>[/latex]<br>",
+                "[latex]Stupeň vrcholu $v$ grafu $G$ označíme $deg_G(v)$. Toto číslo reprezentuje počet hran grafu $G$ obsahujících vrchol $v$.[/latex]"
             ],
-            "guid": "w|PY%sklS[",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "p.|2E7LaSp",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice hloubky vrcholy",
-                "Jeho vzdálenost od kořene = číslo hladiny"
+                "[latex]Jak definujeme zdroj v orientovaném grafu?[/latex]",
+                "[latex]Zdroj je takový vrchol orientovaného grafu, do kterého nevede žádná hrana (jeho vstupní stupeň je 0).[/latex]"
             ],
-            "guid": "d}u%/4/vwq",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "r1rLIt#J!+",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice binárního stromu",
-                "Strom nazveme binární, pokud<div>- je zakořeněný</div><div>- každý vrchol má nejvýše dva syny a</div><div>- u synů rozlišujeme, který je levý a který pravý</div>"
+                "[latex]Jak zní věta o principu sudosti?[/latex]",
+                "<img src=\"paste-167dace1417f0d00db880f5b2b13d87c3ce535a1.jpg\">"
             ],
-            "guid": "IxwH%74bIH",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "w_;Jyw9&u;",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice binární minimové haldy",
-                "Binární minimová halda je datová struktura tvaru binárního stromu, v jehož každém vrcholu \\(x\\) je uložen jeden klíč \\(k(x)\\) a která splňuje tyto dvě vlastnosti:<div><br></div><div>- Tvar haldy: Strom má všechny hladiny kromě poslední plně obsazené. Poslední hladina je zaplněna od levého okraje směrem k pravému.</div><div><br></div><div>- Haldové uspořádání: Je-li \\(v\\) vrchol a \\(s\\) jeho syn, platí \\(k(v) \\leq k(S)\\)</div>"
+                "[latex]Jak definujeme kostru neorientovaného grafu?[/latex]",
+                "<img src=\"paste-f7b5e0a2beb8c6549104734a9b6e3ca164531c50.jpg\">"
             ],
-            "guid": "NTWWJ7tefx",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "h^?q*.d.n+",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-3-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Lemma binární haldy s \\(n\\) prvky má hladin",
-                "Binární haldy s \\(n\\) prvky má \\(\\lfloor log(n)&nbsp; + 1 \\rfloor\\) hladin"
+                "[latex]Jak definujeme vzdálenost dvou vrcholů v grafu?[/latex]",
+                "<img src=\"paste-4d5f462ca0a1e6c7b764f0e05d28fc9f31ec4ada.jpg\">"
             ],
-            "guid": "nOV8$&U;^/",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "tc/u6_KtW-",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-3-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Lemma o binární haldě s \\(n\\) prvky o vnitřních vrcholy a listy",
-                "Binární halda s \\(n\\) prvky má \\(\\lfloor \\frac{n}{2} \\rfloor\\) vnitřních vrcholů a \\(\\lceil \\frac{n}{2} \\rceil\\) listů"
+                "[latex]Jak definujeme acyklický orientovaný graf?[/latex]",
+                "<img src=\"paste-6bd3c14ca2397c6fd10d92ee1c53b6778199db62.jpg\">"
             ],
-            "guid": "j1qS|fZi5w",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "s[>BRDfP}h",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-3-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Algoritmus HeapInsert(H,k), BubbleUp(p)",
-                "Algoritmus HeapInsert(H,k)<div>(1) n := n + 1</div><div>(2) vlož na první volnou pozici v poslední hladině nový vrchol p s klíčem k</div><div>(3) BubbleUp(p)</div><div><br></div><div>BubbleUp(p)</div><div>(4) Dokud p není kořen:</div><div>(5)&nbsp; &nbsp;o := otec(p)</div><div>(6)&nbsp; &nbsp;Pokud k(o)&nbsp;\\(\\leq\\) k(p)</div><div>(7)&nbsp; &nbsp; &nbsp;return</div><div>(8)&nbsp; &nbsp;prohoď k(o) a k(p)</div><div>(9)&nbsp; &nbsp;p := o</div>"
+                "[latex]Jak definujeme topologické uspořádání orientovaného acyklického grafu?[/latex]",
+                "<img src=\"paste-0f8cbcc5820c98e398e74241313501eaa1e5d851.jpg\"><br><div><br></div>"
             ],
-            "guid": "g[y>S:xcqk",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "enUaWs3y,p",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-3-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Algoritmus HeapExtractMin(H) a BubbleDown(v)",
-                "Algoritmus HeapExtractMin(H)<div>(1) r = kořen, l = poslední list, n = velikost haldy</div><div>(2) prohoď k(r) a k(l)</div><div>(3) n := n - 1</div><div>(4) BubbleDown(r)</div><div><br></div><div>BubbleDown(v)</div><div>(5) Pokud má v nějaké syny:</div><div>(6)&nbsp; &nbsp;s := takový syn v, který má nejmenší klíč</div><div>(7)&nbsp; &nbsp;Pokud \\(k(v) \\leq k(s)\\):</div><div>(8)&nbsp; &nbsp; &nbsp;return</div><div>(9)&nbsp; &nbsp;prohoď k(v) a k(s)</div><div>(10) v := s</div>"
+                "[latex]Jak definujeme pojmy otec, syn, předek a potomek u zakořeněného stromu?[/latex]",
+                "<img src=\"paste-e214c392f174e27fc8179c1a54cf6852b01503c5.jpg\">"
             ],
-            "guid": "Ma4Ah)c%5G",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "sR~VJn@o&~",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Algoritmus HeapBuild",
-                "Halda \\(H[1 ... n ]\\)&nbsp;HeapBuild( prvky \\(x_1, ..., x_n\\)&nbsp;)<div>(1) vlož prvky do pole \\(H\\) tak, že \\(H[i] := x_i\\)</div><div>(2) Pro \\(i := \\lfloor \\frac{n}{2} \\rfloor, ..., 1:\\)</div><div>(3)&nbsp; &nbsp;BubbleDown\\((H[i])\\)</div>"
+                "[latex]Jak v zakořeněném stromu definujeme hloubku vrcholu?[/latex]",
+                "<img src=\"paste-1c7e3be4edb68dc71d71f9bc7e9a040e0d558b68.jpg\">"
             ],
-            "guid": "d@$@s?m-.h",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "BQSm1(}ExN",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice amortizované složitosti",
-                "Operace \\(A\\) nad dynamickou datovou strukuroumá v daném kontextu svého provádění amortizovanou časovou složitost \\(O(f(n))\\) (označíme \\(O^*(f(n))\\)), pokud posloupnost \\(k\\) opreací \\(A\\) má celkovou složitost \\(O(k * f(n))\\). Parametr \\(n\\) je velikost dynamické množiny po provedení této posloupnosti operací"
+                "[latex]Jak definujeme binární minimovou haldu?[/latex]",
+                "<img src=\"paste-4ef36fd7daf90876d913823b85183cb63c334b38.jpg\">"
             ],
-            "guid": "OXq6.H1}#X",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "nn_QqjBrga",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice binomiálního stromu řádu \\(k\\)",
-                "Binomiální strom řádu \\(k\\) ( značíme \\(B_k\\) ) je uspořádaný (t.j. záleží na pořadí synů ) zakořeněný strom, pro který platí:<div><br></div><div>1. \\(B_0\\) je tvořen pouze kořenem</div><div>2. Pro&nbsp;\\(k \\geq 1\\) získáme \\(B_k\\) ze stromů \\(B_0, B_1, ..., B_{k-1}\\) tak, že přidáme nový kořen a kořeny těchto stromů uděláme ( takto popořadě ) syny nového kořene</div>"
+                "[latex]Kolik má binární halda s $n$ prvky listů a vnitřních vrcholů?[/latex]",
+                "<img src=\"paste-afa1952174e985be0c6f2940f65c2d43d4294e4f.jpg\">"
             ],
-            "guid": "N|Ymn,WIX:",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "D)*XLb,XMC",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Alternativní definice binomiální stromu řádu k",
-                "Binomiální strom řádu \\(k\\) ( značíme \\(B_k'\\)) je uspořádaný zakořeněný strom, pro který platí:<div><br></div><div>1. \\(B_0'\\) je tvořen pouze kořenem</div><div><br></div><div>2. Pro \\(k \\geq 1\\) se \\(B_k'\\) skládá ze stromů \\(B_{k-1}'\\), pod jehož kořenem je jako nejpravější syn napojený další strom \\(B_{k - 1}'\\)</div>"
+                "[latex]Popište operaci \\texttt{HeapInsert}($H,k$), která vloží nový klíč $k$ do binární minimové haldy $H$. Jakou má tato operace časovou složitost?&nbsp;[/latex]",
+                "<img src=\"paste-8dae24eb453dd7f3951c6d8a35b63558c1163d56.jpg\"><div><img src=\"paste-ab1f31ac9f95f097a50cbab6cd586b5ee714b413.jpg\"><br></div>"
             ],
-            "guid": "vnxP&*[QX=",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "H}(1q-!ZWw",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Lemma o izomorfismu \\(B_k\\) a \\(B_k'\\)",
-                "Stromy \\(B_k\\) a \\(B_k'\\) jsou izomorfní"
+                "<div> <div> <div> <div> <div>[latex]Jak definujeme zakořeněný strom?[/latex]</div> </div> </div> </div></div>",
+                " <div> <div> <div> <div><img src=\"paste-ed4829af94ecee63d15f3c5d5ce7fcc852d3e103.jpg\"><br></div> </div> </div> </div>"
             ],
-            "guid": "e8E1$<YWPa",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "KF@Rg-wp>C",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Počet hladin binomiálního stromu \\(k\\)",
-                "Počet hladin stromu \\(B_k\\) je roven&nbsp;\\( k + 1\\), stupeň kořene je \\(k\\), a počet vrcholů \\(B_k\\) je roven \\(2^k\\)<br>"
+                "[latex]Jak v zakořeněném stromu definujeme hladinu?[/latex]",
+                " <div> <div> <div> <div><img src=\"paste-c3864da4464a2a0d04fc977249761f81e9f2c54d.jpg\"><br></div> </div> </div> </div>"
             ],
-            "guid": "uZ5G7_K9Yf",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "ducYk3WRTL",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Hloubka binomiálního stromu",
-                "Binomiální strom s \\(n\\) vrcholy má hloubku \\(log(n)\\) a počet synů kořene také \\(log(n)\\)"
+                "<div> <div> <div> <div> <div>[latex]Jak definujeme binární strom?[/latex]</div> </div> </div> </div></div>",
+                "<div> <div> </div></div><div> <div> </div></div><div> <div> </div></div><div> <div> <div> <div> <div><img src=\"paste-690fa66fc7fd9e8806384edad9591747787f094a.jpg\"><br></div><div><div><div><div><div><div><div><div><div><div> </div> </div> </div></div></div> </div> </div> </div></div></div> </div> </div> </div></div>"
             ],
-            "guid": "G2+]cmJ/]3",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "y!(nZvcWGP",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Počet vrcholů stromu \\(B_k\\) v hloubce \\(i\\)",
-                "Počet vrcholů stromu \\(B_k\\) v hloubce&nbsp;\\( i \\in \\{0, ..., k\\} \\) je \\(n_k(i) =&nbsp; {k \\choose i} \\)"
+                "[latex]Jakou časovou složitost má algoritmus BFS při reprezentaci grafu seznamem sousedů?[/latex]",
+                " <div> <div> <div> <div>[latex]$O(|V| + |E|)$[/latex]</div> </div> </div> </div>"
             ],
-            "guid": "yKl|4h[{,O",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "tmI{;z4nEi",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-3-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Definice binomiální haldy",
-                "Binomiální halda (BH) obsahující&nbsp;\\(n\\) prvků je uspořádaná množina binomiálních stromů&nbsp;\\(T = T_1, ..., T_l\\), kde platí:<div><br></div><div>1. Stromy \\(T_i\\) jsou v \\(T\\) uspořádány vzestupně podle svých řádů.</div><div>2. \\(n = | V(T_1)&nbsp; | + ... + |V(T_l)|\\)</div><div>3. Pro každé nezáporné k se v množině \\(T\\) vyskytuje nejvýše jeden binomiální strom řádu \\(k\\)</div><div>4. Každý vrchol \\(v\\) v každém stromu obsahuje klíč \\(k(v)\\)</div><div>5. Pro každý strom \\(T_i\\) platí haldové uspořádání klíčů, čili&nbsp;\\( \\forall v \\in V (T_i )\\) a&nbsp;\\( \\forall \\) jeho syny&nbsp;\\( s_j, j = 1, ..., m \\), platí&nbsp;\\( k(v) \\leq k(s_j) \\)</div>"
+                "<div>[latex]Jaký je maximální stupeň vrcholu v neorientovaném grafu o $n$ vrcholech?[/latex]</div>",
+                "[latex]$n-1$[/latex]"
             ],
-            "guid": "G}Sm@v`G^D",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "cSB)g.a{W#",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Vlastnosti BH o binárním zápisu",
-                "Binomiální strom \\(B_i\\) se vyskytuje v seznamu \\(T\\) \\(n\\)-prvkové BH právě tehdy, když ve dvojkovém zápisu \\(b_kb_{k-1}...b_0\\) čísla \\(n\\) je \\(b_i = 1\\)"
+                "[latex]Jak bychom pomocí algoritmu DFS mohli ověřit, zdali je zadaný orientovaný graf silně souvislý?[/latex]<br>",
+                "<div>[latex]DFS budeme postupně pouštět ze všech vrcholů. Z každého vrcholu musí být všechny ostatní dosažitelné, tedy po průchodu DFS budou všechny vrcholy CLOSED. Před dalším spuštěním DFS (z dalšího vrcholu) opět nastavíme všechny uzly zpět na FRESH.[/latex]</div>"
             ],
-            "guid": "K:k0KI)H53",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "m:`;KG!Em,",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Z kolika stromů se skládá \\(n\\)-prvková BH",
-                "\\(n\\)-prvková BH se skládá z&nbsp;\\( O(log(n)) \\) binomiálních stromů"
+                "[latex]Popište algoritmus BFS.[/latex]",
+                "<div>[latex]BFS = breadth-first search (prohledávání do šířky), používá se pro nalezení nejkratších cest v grafu[/latex]</div><img src=\"paste-7ebe2c331f2af14bf9675a34b5f68a08d9c5739e.jpg\"><div><img src=\"paste-96602259bcb02d6fa40e5b3b093046b27b0f0f07.jpg\"><br></div><div><img src=\"paste-1028e56a7f97e2100cc48519ba2809dafc2fc805.jpg\"><br></div><div><br></div>"
             ],
-            "guid": "D((ljae!.~",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "waEQr<6.S7",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-3-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Algoritmus BHmerge(A, B)",
-                "<div>Algoritmus BHmerge(A, B)<br></div>(1) scitanci[0..2]<div>(2) carry := null</div><div>(3) neprazdnych := 2</div><div>(4) akt_řád := 0</div><div>(5) Dokud neprázdných \\(\\geq\\) 2:</div><div>(6)&nbsp; &nbsp;neprazdnych := 0</div><div>(7)&nbsp; &nbsp;pocet := 0</div><div>(8)&nbsp; &nbsp;Pokud A je neprázdná:</div><div>(9)&nbsp; &nbsp; &nbsp;neprázdných++</div><div>(10)&nbsp; &nbsp;a := strom je nejnižšího řádu v A</div><div>(11)&nbsp; &nbsp;Pokud řád(a) = akt_řád:</div><div>(12)&nbsp; &nbsp; &nbsp;scitanci[pocet] := \\(a\\)</div><div>(13)&nbsp; &nbsp; &nbsp;pocet++</div><div>(14)&nbsp; &nbsp; &nbsp;vyřaď \\(a\\) z \\(A\\)</div><div>(15) B je neprázdná:</div><div>(16)&nbsp; &nbsp;neprazdnych++</div><div>(17)&nbsp; &nbsp;b := strom nejnižšího řádu v B</div><div>(18)&nbsp; &nbsp;Pokud řád(b) = akt_řád:</div><div>(19)&nbsp; &nbsp; &nbsp;scitanci[pocet] := \\(b\\)</div><div>(20)&nbsp; &nbsp; &nbsp;pocet++</div><div>(21)&nbsp; &nbsp; &nbsp;vyřaď \\(b\\) z \\(B\\)</div><div>(22) Pokud carry není null</div><div>(23)&nbsp; &nbsp;neprzadnych++</div><div>(24)&nbsp; &nbsp;scitanci[pocet] := carry</div><div>(25)&nbsp; &nbsp;pocet++</div><div>(26)&nbsp; &nbsp;carry := null</div><div>(27) Pokud pocet = 3:</div><div>(28)&nbsp; &nbsp;zapiš scitanci[2] do vystupu C</div><div>(29)&nbsp; &nbsp;carry := BHMergeTree(scitanci[0], scitanci[1])</div><div>(30) Pokud pocet = 2:</div><div>(31)&nbsp; &nbsp;carry := BHMergeTree(scitanci[0], scitanci[1])</div><div>(32) Pokud pocet = 1</div><div>(33)&nbsp; &nbsp;zapiš scitanci[0] do výstupu C</div><div>(34) akt_řád++</div><div>(35) Přeřaď do C zbytek BG A nebo B (pokud ještě něco zbývá)</div><div>(36) Přepoj ukazatel na minimum na menší z minim z A a B</div>"
+                "[latex]Popište algoritmus TopSort.[/latex]",
+                "[latex]<div>TopSort (topological sort) = topologické uspořádání (TU). Vstupem je orientovaný&nbsp;graf $G$. Výstupem je nějaké topologické uspořádání vstupního grafu, pokud byl acyklický (detekce cykličnosti v opačném případě). TopSort má pro orientovaný graf $G = (V, E)$ reprezentovaný pomocí seznamu následníků časovou i paměťovou složitost $O(|V | + |E|)$.<br>[/latex]</div><div><br><div><img src=\"paste-9e2832fc2d26a12c2a4f32e78150e81eb5c4070b.jpg\"><br></div><div><img src=\"paste-a4b997c608dc5632fd4f6a59bf673ab8f9f77536.jpg\"><br></div><br></div>"
             ],
-            "guid": "Hyrv`&l!zE",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "cP<4}Lds#<",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-3-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Algoritmus BHMergeTree\\((T_1, T_2)\\)",
-                "Algoritmus BHMergeTree\\((T_1, T_2)\\)<div>Vstup: Binomiální stromy \\(T_1\\), \\(T_2\\) takovém že řád(\\(T_1\\)) = řád(\\(T_2\\))</div><div>Výstup: Výsledný strom \\(T_{out}\\)</div><div>(1) Pokud k(kořen\\((T_1)\\)) \\(\\leq\\) k(kořen\\((T_2)\\))</div><div>(2)&nbsp; &nbsp;Připoj kořen(\\(T_2\\)) jako nejpravějšího syna pod kořen (\\(T_1\\))</div><div>(3)&nbsp; &nbsp;\\(T_{out} := T_1 \\)</div><div>(4) Jinak:</div><div>(5)&nbsp; &nbsp;Připoj kořen(\\(T_1\\)) jako nejpravějšího syna pod kořen (\\(T_2\\))</div><div>(6)&nbsp; &nbsp;\\(T_{out} := T_2\\)</div>"
+                "[latex]Popište algoritmus \\texttt{BubbleSort}.[/latex]",
+                "<img src=\"paste-70e5c203333f3efbc7c33485a68ae55758d36a52.jpg\"><div><img src=\"paste-199e214efbcb69292c761ce193be89b0e0cf5e3a.jpg\"></div><div><img src=\"paste-136154631e89e1e453e3be3ac4392f23f6d3ecec.jpg\"><br><br></div>"
             ],
-            "guid": "duZxw(oK+<",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "FFT:JEU3#h",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Operace BHInsert\\((H, x)\\):",
-                "Operace BHInsert\\((H, x)\\):<div>(1) Vytvoříme BH \\(H'\\) s jedním prvkem \\(x\\)</div><div>(2) BHMerge\\((H, H')\\)</div>"
+                "[latex]Popište algoritmus \\texttt{SelectSort}.[/latex]",
+                "<div><img src=\"paste-256edbd213796d4f9f6b9b6a2acf3106d8a8a847.jpg\"><br></div><img src=\"paste-31581c9f255f0da22298130a5c1564773eb5e158.jpg\"><div><img src=\"paste-482f8ddde0acba812e73e9f5556e21debd10eb6f.jpg\"><br><br></div>"
             ],
-            "guid": "m8Fw!B`mD@",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
-            "tags": []
+            "guid": "eWkSC)+zXz",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Algoritmus BHExtractMin(H):",
-                "<div>Algoritmus BHExtractMin(H):<br></div>(1) Najdi v BH \\(H\\) strom \\(T\\), jehož kořen je minimem<div>(2) Odpoj tento strom \\(T\\) z BH \\(H\\)</div><div>(3) Odtrhni z \\(T\\) jeho kořen</div><div>(4) Invertuj seznam jeho synů, čimž vznikne nová BH \\(H'\\)</div><div>(5) Proveď BHMerge\\((H, H')\\)</div>"
+                "[latex]Popište algoritmus \\texttt{InsertSort}.[/latex]",
+                "<img src=\"paste-b3008ad821091fc66e68c269e36d926761dbade7.jpg\"><div><img src=\"paste-4ebe4bf8e9f64abbc94207c644b4b5ba64d9838e.jpg\"><br></div><div><img src=\"paste-754984713ebe08f0337f4d8f75bed1945a8242ce.jpg\"><br></div>"
             ],
-            "guid": "yd7,X_xMtj",
-            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "guid": "f,wv%$mxwX",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Kolik hladin má binární halda s $n$ prvky?[/latex]",
+                "<img src=\"paste-9ac9f1b14efdce4b46b0b31fd5546c366e671e24.jpg\">"
+            ],
+            "guid": "x8TG+yq*7Z",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{HeapFindMin}($H$), která vrátí minimum ze všech prvků v binární minimové haldě $H$. Jakou má tato operace&nbsp;časovou složitost?&nbsp;[/latex]",
+                "<img src=\"paste-515fe9bc56d3653ed7901efe1b6d4d83b4612638.jpg\">"
+            ],
+            "guid": "j~0+v_ftDG",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{HeapExtractMin}($H$), která odstraní (a vrátí) minimum ze všech prvků z binární minimové haldy $H$. Jakou má tato operace časovou složitost?&nbsp;[/latex]",
+                "<img src=\"paste-2f97fe5a821a675513675bc7e5be213eb21889e8.jpg\"><div><img src=\"paste-cee095b08d79fa4f52fb365522738c9ad2b4ce1c.jpg\"><br></div>"
+            ],
+            "guid": "y0KiAZHF/z",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište, jak lze binární minimovou haldu reprezentovat v poli.[/latex]",
+                "<img src=\"paste-56b6e7d6c63a9ccbf7617e3737d3db683eb65d3b.jpg\">"
+            ],
+            "guid": "Be|>nX%CWt",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište, jak lze z $n$ prvků zkonstruovat binární minimovou haldu v čase $\\mathcal{O}(n)$.[/latex]",
+                "<img src=\"paste-f6088006e5c85505d5c313bb4e223361686a3e4e.jpg\"><div><img src=\"paste-d1b03aef7ad6d62f6fef325596217bf44f9d8ccb.jpg\"><br></div>"
+            ],
+            "guid": "o0B[`RcZe@",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište algoritmus \\texttt{HeapSort}.[/latex]",
+                "<img src=\"paste-c9d580d122e0f60100cdd13d87f2fcc71377e4f8.jpg\">"
+            ],
+            "guid": "MU1,K<u?fp",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme amortizovanou časovou složitost?[/latex]",
+                "<img src=\"paste-6d06a833a67e61bfed9d588396d24af610e58fe4.jpg\">"
+            ],
+            "guid": "t/z,|.-XkL",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme binomiální strom řádku $k$?[/latex]",
+                "<div><img src=\"paste-dd80fc284d73da8c80e0c042cffa495be2864b66.jpg\"><br></div><div><img src=\"paste-075274b469de337db094569c5586a2d5513862c9.jpg\"><br></div>"
+            ],
+            "guid": "jNt_aw+z|o",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jaký je počet hladin binomiálního stromu $B_k$?[/latex]",
+                "[latex]$k+1$[/latex]"
+            ],
+            "guid": "P,L7x=YeUN",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jakou hloubku má binomiální strom s $n$ vrcholy?[/latex]",
+                "[latex]$\\log n$[/latex]"
+            ],
+            "guid": "MBMYBAQ`zl",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme binomiální haldu?[/latex]",
+                "<img src=\"paste-c256c308d2e2b7b2d734a247fa0f6737182967c9.jpg\">"
+            ],
+            "guid": "l{ha]{$NCA",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Z kolika binomiálních stromů se skládá $n$-prvková binomiální halda?[/latex]",
+                "<img src=\"paste-27c485b49959cf0c51841b91e601bda9781ef224.jpg\">"
+            ],
+            "guid": "K(6^xFAH3Q",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Kdy binární vyhledávací strom nazveme dokonale vyváženým?[/latex]",
+                "<img src=\"paste-e144c83135177f48b37fb52d87aa2e7a04b9e2f1.jpg\">"
+            ],
+            "guid": "Dgjl]33gqt",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jaká je hloubka AVL stromu na $n$ vrcholech?[/latex]",
+                "<img src=\"paste-c5ca6851eb3fb14c7db69ba00388f1678fdd21c3.jpg\">"
+            ],
+            "guid": "orf4_amQ53",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{BVSDelete}$(v,x)$, která z $T(v)$ odstraní vrchol s klíčem $x$, pokud v něm existuje.[/latex]",
+                "<img src=\"paste-461a78067a3caa7d0992df36334fe5e1c8795a7a.jpg\"><div><img src=\"paste-a6d40fc65c143e8df08aa87f2f3d00bb4c693316.jpg\"><br></div><div><img src=\"paste-46c219d63fa4446d71f364c8af0b3fc721abc59c.jpg\"><br></div><div><img src=\"paste-1010523f103ec45c9dfb1fabfced70a1e00301fb.jpg\"><br></div>"
+            ],
+            "guid": "Lmv$TXe9as",
+            "note_model_uuid": "05bda9da-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{BVSMin}$(v)$, která vrátí minimální klíč v $T(v)$.[/latex]",
+                "<img src=\"paste-942c416d215aac1c7738ab76058a03d67087a25a.jpg\">"
+            ],
+            "guid": "FlaMY!,8e,",
+            "note_model_uuid": "05bda9da-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Kdy binární vyhledávácí strom nazveme AVL stromem?[/latex]",
+                "<img src=\"paste-a624c9b5330da9c9f2a0fa5c11ed20ef42d8c4cd.jpg\">"
+            ],
+            "guid": "ojS@K0^x/G",
+            "note_model_uuid": "05bda9da-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{BVSInsert}$(v,x)$, která&nbsp;do $T(v)$ vloží nový vrchol s klíčem $x$, pokud v něm ještě neexistuje.[/latex]",
+                "<img src=\"paste-755ef1bcc938097d72e1493405e3f6f86d21a18c.jpg\">"
+            ],
+            "guid": "lVkY5c64=q",
+            "note_model_uuid": "05bda9da-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{BVSPred}$(v,w)$, která vrátí předchůdce vrcholu $w$ v $T(v)$.[/latex]",
+                "<img src=\"paste-6661ad7248d233ff0336b73125929ba59171b5f8.jpg\">"
+            ],
+            "guid": "Im+;+ygc[R",
+            "note_model_uuid": "05bda9da-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme binární vyhledávací strom?[/latex]",
+                "<img src=\"paste-c045c410413925563172f9ad4bed7c590abb21da.jpg\">"
+            ],
+            "guid": "u](ftQYS1Y",
+            "note_model_uuid": "05bda9da-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme jev a jak počítáme jeho pravděpodobnost?[/latex]",
+                "<img src=\"paste-c04c74ab7ad161c39569be5fd5fd23829f115c20.jpg\">"
+            ],
+            "guid": "zn^g3QXm%v",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Kdy dva jevy nazveme nezávislé?[/latex]",
+                "<img src=\"paste-66c97aa2ae4bec34f27c9f351c444432f6962854.jpg\">"
+            ],
+            "guid": "D/pD`@9#b.",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme opačný jev k jevu $A$ a jaká je jeho pravděpodobnost vzhledem k pravděpodobnosti jevu $A$?[/latex]",
+                "<img src=\"paste-6e975ede308b226a0a9db66983c8b9dfed1d7e78.jpg\"><div><img src=\"paste-101429088be512eb087f539e6d0cfecc733ceb19.jpg\"><br></div>"
+            ],
+            "guid": "FE1;8;/M71",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Vyslovte větu o linearitě střední hodnoty.[/latex]",
+                "<img src=\"paste-bb6aa215c62ebcd87bb63a16be5d1841e90ac9df.jpg\">"
+            ],
+            "guid": "CYj/e41](N",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme střední hodnotu náhodného veličiny?[/latex]",
+                "<img src=\"paste-8d1d3e7ea2622d75657682d18fb391479883100d.jpg\">"
+            ],
+            "guid": "L]E?fvnbLu",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme diskrétní pravděpodobnostní prostor?[/latex]",
+                "<img src=\"paste-87ac27453e2d0295df9dc2f90e22fd94bc3a82d8.jpg\">"
+            ],
+            "guid": "jF]K[b!Lxw",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Co je to rekurzivní algoritmus a metoda Rozděluj a Panuj?[/latex]",
+                "<img src=\"paste-da3356ae314ed2ecbfac9848996af732702b8fa6.jpg\">"
+            ],
+            "guid": "NS3K;CE@(0",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak funguje algoritmus QuickSelect a jaká je jeho časová složitost?[/latex]",
+                "<img src=\"paste-f37a1f01cfebb048684b0cc649f4bbdf748c5720.jpg\"><div><img src=\"paste-96e50009d9f7f151841f388bea5d64e7f8a38db7.jpg\"><br></div><div><img src=\"paste-645ecf919ace254b581112e49b0a974b01c7aa66.jpg\"><br></div><div><img src=\"paste-fd4cd337e98fb8683caea446bbb69edd83155e72.jpg\"><br></div><div><br></div>"
+            ],
+            "guid": "Egw94rX#_v",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jaké máme základní typy rekurze?[/latex]",
+                "<img src=\"paste-3025615e4c2cf4a7f958d3a6977641238a9f795e.jpg\"><div><br></div>"
+            ],
+            "guid": "J`~%M~ewwd",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Co je to koncová rekurze?[/latex]",
+                "<img src=\"paste-304b8d6d37290ef6dcbda0c006a58d2ec6376b6b.jpg\">"
+            ],
+            "guid": "inQfjim!P:",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Co je to lineární rekurze?[/latex]",
+                "<img src=\"paste-6b0ee8326b90712dd50382e55ca1a6ed3e8ebbcf.jpg\">"
+            ],
+            "guid": "J=$J3z@mC4",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Co je to stromová/kaskádní rekurze?[/latex]",
+                "<img src=\"paste-b40d0521a0661ebe6c05835368322a0149a70236.jpg\">"
+            ],
+            "guid": "t;yyc?~xn^",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak fungují hešovací tabulky?[/latex]",
+                "<img src=\"paste-6c5385556f6223faec609db0fd447925f3087e98.jpg\">"
+            ],
+            "guid": "HG+%&.{>[}",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme diskrétní náhodnou veličinu?[/latex]",
+                "<img src=\"paste-b572f4414df39225c792de3e633c4d8d3324771c.jpg\"><div><img src=\"paste-60f5c94e4d9a504d269f051b132744fde5a8a438.jpg\"><br></div>"
+            ],
+            "guid": "KwupGbT)Un",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Definujte datovou strukturu slovník.[/latex]",
+                "<img src=\"paste-c29f048b29c5f1a1c25fb5d3e3316bdfcba5e8be.jpg\"><div><img src=\"paste-bf1b5b85a073922f60b985b3b9f43184dcaf1c06.jpg\"><br></div><div><img src=\"paste-523fa859a890857bf820bcbf7f730b2b8c975c84.jpg\"><br></div>"
+            ],
+            "guid": "zDD4w^CyW4",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Co je to skoromedián a jak ho ve vstupní posloupnosti čísel najít?[/latex]",
+                "<div><img src=\"paste-de408142de8c649c0ac803d7b159181d338c466c.jpg\"><br></div><img src=\"paste-1205513327b82b184f37d3783f2c775580a31051.jpg\">"
+            ],
+            "guid": "kN%@gSxGB$",
+            "note_model_uuid": "05bc9b30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Vyslovte větu o opakování pokusu.[/latex]",
+                "<img src=\"paste-cd4cdc48ea4ecfb29656e8d6dc64024a8e5bfaa2.jpg\">"
+            ],
+            "guid": "K%&NU{d<rg",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jaké existují metody řešení kolízí?[/latex]",
+                "<img src=\"paste-38458a440d998a6bd77844ecd315d40461d245ef.jpg\">"
+            ],
+            "guid": "G*Q:y8W&._",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak funguje algoritmus MergeSort a jaká je jeho časová složitost?[/latex]",
+                "<div><img src=\"paste-bdc1ac7f51e813c4da56cdca0f3bc0a1f90bc84e.jpg\"><br></div><div><img src=\"paste-1359366af0ad045d7ed61b3ca9f8012560cd9c18.jpg\"><br></div><div><img src=\"paste-b407d62639b8708fa5eea53e3ade8128b15745e0.jpg\"><br></div><div><img src=\"paste-5bf57c6c4df7f9018c6931a8464264432a30ef67.jpg\"><br></div>"
+            ],
+            "guid": "s}mA%PwY*@",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak funguje Karacubův algoritmus a jaká je jeho časová složitost?[/latex]",
+                "<br><div><img src=\"paste-d9f34fd4b69c79b86448dcd71fd15d05e2b22c44.jpg\"><br></div><div><img src=\"paste-47191297c83c1a9f7480fc74e160af4344c90e5f.jpg\"><br></div><div><img src=\"paste-b4d1a08c14340d3f1fcecb59aced72672522b122.jpg\"><br></div>"
+            ],
+            "guid": "J+__omDQu0",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Definujte problém vyhledávání v porovnávacím modelu a formulujte větu o dolní složitosti tohoto problému.[/latex]",
+                "<div><img src=\"paste-190aef51c0ce6fed9baea711403ea551b3ca8ff9.jpg\"><br></div><div><img src=\"paste-4e66cbb8d3678d99643eea9fc5d6b7617f59cbc0.jpg\"><br></div>"
+            ],
+            "guid": "t?mC:TI;)e",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-9-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište algoritmus \\texttt{QuickSort}.[/latex]",
+                "<img src=\"paste-1e357d62f20c7e743d5b77e43933f9738b4db451.jpg\"><div><img src=\"paste-3b146b11e8c2bc3536296d891c228aa9bc704261.jpg\"><br></div>"
+            ],
+            "guid": "oYAlnr*Wp1",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-9-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Vyslovte větu o složitosti řazení.[/latex]",
+                "<img src=\"paste-3128e59f7962d7a0793b693ed4582c927bb29ad3.jpg\">"
+            ],
+            "guid": "sWn4kvv.xT",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-9-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište algoritmus \\texttt{CountingSort}.[/latex]",
+                "<div><img src=\"paste-83f354da3f23a6e511afcfd7c7d11ac64a694486.jpg\"><br></div><div><img src=\"paste-50d89e586ff753bd50b9479adcde7cdf2d2af2ee.jpg\"><br></div>"
+            ],
+            "guid": "iq*`^.WA;y",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-9-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište algoritmus \\texttt{LexCountingSort}.[/latex]",
+                "<div><img src=\"paste-168218f604ab8d197df661ff93040400b01b9608.jpg\"><br></div><div><img src=\"paste-93caf24eea7e21cc33ee2043dc3c60025f3f302d.jpg\"><br></div><div><img src=\"paste-c3b940f3f47f0a6305cff79da542ccf2d46be921.jpg\"><br></div><div><br></div>"
+            ],
+            "guid": "M!DY40.>cM",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-9-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Definujte Levenshteinovu vzdálenost (problém editační vzdálenosti řetězců).[/latex]",
+                "<img src=\"paste-e6c3575963de71d3e7b709d0af280f3d6e548f8b.jpg\">"
+            ],
+            "guid": "J??r4C<?c6",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-10-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište problém minimální kostry grafu.[/latex]",
+                "<img src=\"paste-22fb1e2add87c057cabfd9b6a97e596ea5182d61.jpg\"><div><img src=\"paste-aa4e083e8f78a00da4bae5c9c4e58587e972edf2.jpg\"><br></div>"
+            ],
+            "guid": "ugI0l3i:aO",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-11-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište Jarníkův algoritmus a jeho složitost.[/latex]&nbsp;",
+                "<img src=\"paste-d9494f2c4218a8e7122662f2c15274f8fe924587.jpg\"><div><img src=\"paste-adaedb63de5070db958ef8e00800bf77ab22ba84.jpg\"><br></div><div><img src=\"paste-9b6e99a51bc3d357a454143be4b8d2aba01dad90.jpg\"><br></div>"
+            ],
+            "guid": "b0BY,~%Q23",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-11-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište Kruskalův algoritmus a jeho složitost.[/latex]",
+                "<img src=\"paste-4f59fbee07d801a27ead1cdc9972568cc8a5cb0b.jpg\"><div><img src=\"paste-d9471d4b974ec44f3dfc323ae2fa4dea3c16d1c2.jpg\"><br></div><div><img src=\"paste-dd8b660ece1796610e074cb1af8dd6237446e947.jpg\"><br></div><div><img src=\"paste-5967e343e0cdab3594aceff42569410a83ca6862.jpg\"><br></div>"
+            ],
+            "guid": "DuE21lK]T(",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-11-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Definujte sled v orientovaném ohodnoceném grafu a jeho délku.[/latex]",
+                "<img src=\"paste-4a3bf4ddc8f124e3f475116a672cf055b3a52f52.jpg\">"
+            ],
+            "guid": "wE!;YI9Zt}",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-12-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Definujte vzdálenost dvou vrcholů v ohodnoceném orientovaném grafu.[/latex]",
+                "<img src=\"paste-0a0a71c80601890298df2b44ff64052e86f5ee84.jpg\">"
+            ],
+            "guid": "G)ot^AjysS",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-12-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište Dijkstrův algoritmus a jeho složitost.[/latex]",
+                "<img src=\"paste-4338b1888bfc9d39f28bbe3a041a7624a741bc45.jpg\"><div><img src=\"paste-9a50bcfc8954ddcf72385c1600fc4fd5727572a1.jpg\"></div><div><img src=\"paste-1368426215cd72deac44d54963e285da00f62b4f.jpg\"></div><div><img src=\"paste-c38b89c55e43cf8bbdbe61ea27a2299d72cf341f.jpg\"><br><div><br></div></div>"
+            ],
+            "guid": "ij(u68b5AA",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-12-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište algoritmus Relaxace.[/latex]",
+                "<div><img src=\"paste-482c05d86168b79e6d8f06d08222013d94194db8.jpg\"><br></div><div><img src=\"paste-a0571ac232260a9f95e3cb7943196a8f228c58f0.jpg\"><br></div>"
+            ],
+            "guid": "GY::XD5ycH",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-12-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Vyslovte lemma o zjednodušování sledů. Jaké má toto lemma důsledky?[/latex]",
+                "<img src=\"paste-2573dc08ee50a3fd821e853e7a1114b553625cb6.jpg\"><div><img src=\"paste-64fcce16322a0f31fc76b1efac05590993d172bb.jpg\"><br></div><div><img src=\"paste-8c0b7b45b622f7f33ebad20a021d30012e8be4c3.jpg\"><br></div><div><img src=\"paste-f56a1ec85b174aa28c7ed927e8508a3f0ebf220d.jpg\"><br></div>"
+            ],
+            "guid": "Ms5|Ca_`;S",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-12-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište Bellman-Fordův algoritmus a jeho složitost.[/latex]",
+                "<div><img src=\"paste-598cb67a25dbe97782ba92ed26df65bdae422a69.jpg\"><br></div><div><img src=\"paste-5ae2a69a2064010b3e65d52889ea6c7d365acab2.jpg\"><br></div><div><img src=\"paste-91a54c3a0d603cace499313efb3ae089b635b005.jpg\"><br></div>"
+            ],
+            "guid": "g)h#efUcJJ",
+            "note_model_uuid": "02c42420-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-12-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Definujte strukturu Union-Find.[/latex]",
+                "<img src=\"paste-d2a14ee4f0403dbedf2057b25fab6aabc4644117.jpg\">"
+            ],
+            "guid": "HNBD=_I1.n",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-11-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Definujte elementární řez grafu.[/latex]",
+                "<img src=\"paste-c96537b9ee1e01d22e7a05d4012f4fff06472001.jpg\">"
+            ],
+            "guid": "GRH/s.$;gv",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-11-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište implementaci struktury Union-Find pomocí pole a pomocí keříků.[/latex]",
+                "<img src=\"paste-b56b7720f6efeebd429d689b656c524328461940.jpg\"><div><img src=\"paste-992082d1a67d935eb97bcd643a042c8d36e33bc9.jpg\"><br></div><div><img src=\"paste-0e8418049ad8bd7d5ccb53080056d5de850bce35.jpg\"><br></div><div><img src=\"paste-1277f7d2a2e05a1a16c4b000f7e2ba3f5aa734b0.jpg\"><br></div><div><img src=\"paste-c190b9d68df1311a863d24da8bb7d40b1f5feba9.jpg\"><br></div><div><img src=\"paste-890831f7e170312c044e88572b47f189c3f1d565.jpg\"><br></div><div><img src=\"paste-2e7a44e44b3e85c793613ccc0b920e70461f9117.jpg\"><br></div><div><img src=\"paste-1b13a2eb84442e1f35f600942c2482efaed43ec0.jpg\"><br></div>"
+            ],
+            "guid": "ny|wyulnNs",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-11-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište princip dynamického programování.[/latex]",
+                "<img src=\"paste-a8bcc54a765d7675b1220b57d60e0c41053c181a.jpg\">"
+            ],
+            "guid": "MX_7,8}S)8",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-10-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Co je to memoizace?[/latex]",
+                "<div>[latex]Začneme s rekurzivním algoritmem, který má exponenciální složitost. Odhalíme opakované výpočty stejných podproblémů. Vytvoříme si tabulku, do které budeme zapisovat výsledky již vyřešených podproblémů -- tedy každou spočítanou hodnotu pro dané vstupy si uložíme pro pozdější použití. Jelikož se v&nbsp;průběhu rekurzivního výpočtu často řeší stejné zadání na několika různých místech, můžeme si ušetřit (až nečekaně!) výrazné množství času.[/latex]</div>"
+            ],
+            "guid": "gQAV`3XNNw",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-10-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Definujte ohodnocený orientovaný graf.[/latex]",
+                "<img src=\"paste-872e50fbdf14aed854edcd489881962de7447b39.jpg\">"
+            ],
+            "guid": "ksqmMbRs`/",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-12-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište problém nejdelší rostoucí podposloupnosti (NRP).[/latex]&nbsp;",
+                "<img src=\"paste-486949250a3c4e42caa6d0c889e09b5416e9d10c.jpg\">"
+            ],
+            "guid": "mPxVGWX96)",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-10-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak se kontroluje a případně opravuje hloubková nevyváženost u AVL stromu?[/latex]",
+                "<img src=\"paste-906324ec721c2fa8cf8417c3eff836a2a2384e83.jpg\">"
+            ],
+            "guid": "QUww}$Mxq7",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jaká je časová složitost operací \\texttt{AVLInsert} a \\texttt{AVLDelete}?[/latex]",
+                "<img src=\"paste-4b645ea7eff1841b29e4e476c0f9b5d8eff79447.jpg\">"
+            ],
+            "guid": "g$5+.RK(?V",
+            "note_model_uuid": "05bcfa30-7e75-11eb-91df-38d5479d0148",
+            "tags": [
+                "ag1-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Kolik maximálně hran může mít neorientovaný graf na $n$ vrcholech?[/latex]",
+                "[latex]Takový graf se nazývá úplný a má $\\binom{n}{2} = \\frac{n(n-1)}{2}$ hran.[/latex]<br>"
+            ],
+            "guid": "qwwvfIlwjm",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jmenujte alespoň 4 nutné podmínky izomorfismu dvou neorientovaných grafů $G, H$.[/latex]",
+                "[latex]<div>\\begin{enumerate}</div><div>\\item $|V(G)| = |V(H)|$</div><div>\\item $|E(G)| = |E(H)|$</div><div>\\item Jsou-li $u, v$ sousední vrcholy, pak i $f(u)$, $f(v)$ jsou sousední vrcholy</div><div>\\item $G$ a $H$ mají stejné soubory stupňů (soubor stupňů grafu je posloupnost čísel, kterou získáme, když seřadíme stupně všech vrcholů v grafu od největšího k nejmenšímu)</div><div>\\item pro každý vrchol $v$ z $V(G)$ platí, že jeho stupeň je roven stupni vrcholu $f(v)$</div><div>\\item pokud mezi vrcholy $v_1, v_2, \\dots, v_k$ v grafu $G$ existovala kružnice, pak bude existovat i mezi vrcholy $f(v_1), f(v_2), \\dots, f(v_k)$&nbsp;</div><div>\\end{enumerate}</div><div>[/latex]<br></div>"
+            ],
+            "guid": "c:_eK.^qX=",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak v orientovaném grafu $G=(V,E)$ definujeme orientovanou hranu?[/latex]",
+                "<img src=\"paste-08f6ca648195cb3f8de1eff8233ea3b079ee97a5.jpg\">"
+            ],
+            "guid": "P`QJ!#B42N",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak značíme a definujeme výstupní stupeň vrcholu v orientovaném grafu?[/latex]",
+                "<img src=\"paste-a8df71b3764f2a506782c14bb0746ad0d99be330.jpg\">"
+            ],
+            "guid": "CZ<?$Hcnk0",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak značíme a definujeme stupeň vrcholu v orientovaném grafu?[/latex]",
+                "<img src=\"paste-4495f518ea7c452979d3202f2f9fcc6bef2e6d9f.jpg\">"
+            ],
+            "guid": "d}rEQh}VeW",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme výstupní okolí vrcholu v orientovaném grafu?[/latex]",
+                "<img src=\"paste-8115168cc6fd56113614ab8ed244d5ef3398c6f6.jpg\">"
+            ],
+            "guid": "N,6w;th*L/",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme okolí vrcholu v orientovaném grafu?[/latex]",
+                "<div><img src=\"paste-9141b54c51be823d352edc8a62d790998ded7a37.jpg\">&nbsp;<br></div>"
+            ],
+            "guid": "nAcWM~]r-Y",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme izolovaný vrchol v orientovaném grafu?[/latex]",
+                "[latex]Izolovaný vrchol v orientovaném grafu je takový, který má stupeň 0 (tedy jeho vstupní i výstupní stupeň jsou 0) -- do vrcholu ani z vrcholu nevedou žádné hrany.[/latex]"
+            ],
+            "guid": "J2;>n@Qx[D",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme souvislou komponentu neorientovaného grafu $G$?[/latex]",
+                "[latex]Souvislá komponenta grafu $G$ je souvislý indukovaný podgraf $H$ takový, že neexistuje žádný souvislý podgraf $F$ ($F \\neq H$) v grafu $G$ takový, že $H \\subseteq F$. Souvislá komponenta je tedy v inkluzi maximální souvislý podgraf grafu $G$.[/latex]<div><img src=\"paste-5c94ad86bf82e45d9037d57b891eab27c3d91641.jpg\"><br></div>"
+            ],
+            "guid": "H/6Lt*nB`~",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jaký stupeň má kořen binomiálního stromu $B_k$?[/latex]",
+                "[latex]$k$[/latex]"
+            ],
+            "guid": "fP:M[)Qxfa",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Kolik vrcholů má binomiální strom $B_k$?[/latex]",
+                "[latex]$2^k$[/latex]"
+            ],
+            "guid": "OIb:X|:J0a",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Kolik synů má kořen binomiálního stromu s $n$ vrcholy?[/latex]",
+                "[latex]$\\log n$[/latex]"
+            ],
+            "guid": "dmNqxAnR:j",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Kolik vrcholů má binomiální strom $B_k$ v hloubce $i \\in \\{0, \\dots, k\\}$?[/latex]",
+                "[latex]$\\binom{k}{i}$[/latex]"
+            ],
+            "guid": "u<3[>dluWt",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{BHFindMin}($H$), která vrátí minimum ze všech prvků v binomiální (minimové) haldě $H$. Jakou má tato operace&nbsp;časovou složitost?&nbsp;[/latex]",
+                "<img src=\"paste-f026fd5541c2ef52065c58f8c38b24a85c83486f.jpg\">"
+            ],
+            "guid": "GSj&6)L&pM",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{BHMergeTree}, která slije dohromady dva binomiální stromy stejného řádu $B_i$ a vytvoří strom $B_{i+1}$. Jakou má tato operace časovou složitost? [/latex]",
+                "<img src=\"paste-ccde4539cd61df7a21d85ec28c9d8f5e005baf64.jpg\"><div><img src=\"paste-0b0dd1f28585160365c3158e3807a979a0e4b23c.jpg\"><br></div><div><img src=\"paste-d2b64824293098b09e631d6546ce38224c62e11f.jpg\"><br></div>"
+            ],
+            "guid": "t2EG:5-Ps{",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{BHInsert}($H,k$), která vloží nový klíč $k$ do binomiální (minimové) haldy $H$. Jakou má tato operace časovou složitost?&nbsp;[/latex]",
+                "<img src=\"paste-0cdbe9f4d7ddb051583a5c275fbbc8f801687b77.jpg\"><div><img src=\"paste-f451b5b8dd1bb9a44d6fb508165269dfc7540fce.jpg\"><br></div>"
+            ],
+            "guid": "nLfj^^VAbN",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Popište operaci \\texttt{BHExtractMin}($H$), která odstraní (a vrátí) minimum ze všech prvků z binomiální (minimové) haldy $H$. Jakou má tato operace časovou složitost?&nbsp;[/latex]",
+                "<img src=\"paste-434aff2c8a7aff29f5802b16d318a014c4aa0e63.jpg\"><div><img src=\"paste-9ec5d2bcb8ba8ee1548c6054bfb22e38586df708.jpg\"><br></div>"
+            ],
+            "guid": "G][VGS04X{",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
+            "tags": [
+                "ag1-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Jak definujeme pojmy kořen, list a vnitřní vrchol v zakořeněném stromu?[/latex]",
+                "[latex]Kořen je nejvyšší vrchol stromu, je to jediný vrchol, který nemá rodiče. List je takový vrchol, který nemá žádného syna. Vnitřní vrchol je takový, který má alespoň jednoho syna. Má-li zakořeněný strom jen jeden vrchol, je tento vrchol kořenem i listem zároveň. Má-li zakořeněný strom dva vrcholy, pak jeden z nich je listem a druhý kořenem (a také vnitřním vrcholem).[/latex]<br>"
+            ],
+            "guid": "bpI]YnJ%{D",
+            "note_model_uuid": "02c2f8e8-7e75-11eb-bd48-38d5479d0148",
             "tags": []
         }
     ]
